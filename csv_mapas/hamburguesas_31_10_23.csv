@@ -1,0 +1,353 @@
+Año,Alcaldía,Grupo de edad,Población,menores_de_18,mayores_de_18,Categoria de Edad,Categoria de edad
+2020,Álvaro Obregón,0 a 4 años,38484,True,False,Menores de Edad,Menores de Edad
+2020,Álvaro Obregón,5 a 9 años,46700,True,False,Menores de Edad,Menores de Edad
+2020,Álvaro Obregón,10 a 14 años,50868,True,False,Menores de Edad,Menores de Edad
+2020,Álvaro Obregón,15 a 19 años,54848,False,False,Menores de Edad,Menores de Edad
+2020,Álvaro Obregón,20 a 24 años,59941,False,False,Mayores de edad,Mayores de Edad
+2020,Álvaro Obregón,25 a 29 años,60708,False,True,Mayores de edad,Mayores de Edad
+2020,Álvaro Obregón,30 a 34 años,59486,False,True,Mayores de edad,Mayores de Edad
+2020,Álvaro Obregón,35 a 39 años,57172,False,True,Mayores de edad,Mayores de Edad
+2020,Álvaro Obregón,40 a 44 años,55144,False,True,Mayores de edad,Mayores de Edad
+2020,Álvaro Obregón,45 a 49 años,55973,False,True,Mayores de edad,Mayores de Edad
+2020,Álvaro Obregón,50 a 54 años,52721,False,True,Mayores de edad,Mayores de Edad
+2020,Álvaro Obregón,55 a 59 años,43950,False,True,Mayores de edad,Mayores de Edad
+2020,Álvaro Obregón,60 a 64 años,38506,False,True,Mayores de edad,Mayores de Edad
+2020,Álvaro Obregón,65 a 69 años,29503,False,True,Mayores de edad,Mayores de Edad
+2020,Álvaro Obregón,70 a 74 años,21797,False,True,Mayores de edad,Mayores de Edad
+2020,Álvaro Obregón,75 a 79 años,14182,False,True,Mayores de edad,Mayores de Edad
+2020,Álvaro Obregón,80 a 84 años,9657,False,True,Mayores de edad,Mayores de Edad
+2020,Álvaro Obregón,85 a 89 años,5536,False,True,Mayores de edad,Mayores de Edad
+2020,Álvaro Obregón,90 a 94 años,2332,False,True,Mayores de edad,Mayores de Edad
+2020,Álvaro Obregón,95 a 99 años,715,False,True,Mayores de edad,Mayores de Edad
+2020,Álvaro Obregón,100 años y más,91,False,True,Mayores de edad,Mayores de Edad
+2020,Álvaro Obregón,No especificado,823,False,False,,
+2020,Azcapotzalco ,0 a 4 años,21060,True,False,Menores de Edad,Menores de Edad
+2020,Azcapotzalco ,5 a 9 años,23420,True,False,Menores de Edad,Menores de Edad
+2020,Azcapotzalco ,10 a 14 años,25886,True,False,Menores de Edad,Menores de Edad
+2020,Azcapotzalco ,15 a 19 años,27983,False,False,Menores de Edad,Menores de Edad
+2020,Azcapotzalco ,20 a 24 años,31456,False,False,Mayores de edad,Mayores de Edad
+2020,Azcapotzalco ,25 a 29 años,34405,False,True,Mayores de edad,Mayores de Edad
+2020,Azcapotzalco ,30 a 34 años,34905,False,True,Mayores de edad,Mayores de Edad
+2020,Azcapotzalco ,35 a 39 años,33162,False,True,Mayores de edad,Mayores de Edad
+2020,Azcapotzalco ,40 a 44 años,31245,False,True,Mayores de edad,Mayores de Edad
+2020,Azcapotzalco ,45 a 49 años,31859,False,True,Mayores de edad,Mayores de Edad
+2020,Azcapotzalco ,50 a 54 años,31135,False,True,Mayores de edad,Mayores de Edad
+2020,Azcapotzalco ,55 a 59 años,26674,False,True,Mayores de edad,Mayores de Edad
+2020,Azcapotzalco ,60 a 64 años,23787,False,True,Mayores de edad,Mayores de Edad
+2020,Azcapotzalco ,65 a 69 años,18059,False,True,Mayores de edad,Mayores de Edad
+2020,Azcapotzalco ,70 a 74 años,14232,False,True,Mayores de edad,Mayores de Edad
+2020,Azcapotzalco ,75 a 79 años,9631,False,True,Mayores de edad,Mayores de Edad
+2020,Azcapotzalco ,80 a 84 años,6845,False,True,Mayores de edad,Mayores de Edad
+2020,Azcapotzalco ,85 a 89 años,3794,False,True,Mayores de edad,Mayores de Edad
+2020,Azcapotzalco ,90 a 94 años,1689,False,True,Mayores de edad,Mayores de Edad
+2020,Azcapotzalco ,95 a 99 años,535,False,True,Mayores de edad,Mayores de Edad
+2020,Azcapotzalco ,100 años y más,78,False,True,Mayores de edad,Mayores de Edad
+2020,Azcapotzalco ,No especificado,365,False,False,,
+2020,Benito Juárez,0 a 4 años,16642,True,False,Menores de Edad,Menores de Edad
+2020,Benito Juárez,5 a 9 años,17069,True,False,Menores de Edad,Menores de Edad
+2020,Benito Juárez,10 a 14 años,17532,True,False,Menores de Edad,Menores de Edad
+2020,Benito Juárez,15 a 19 años,18970,False,False,Menores de Edad,Menores de Edad
+2020,Benito Juárez,20 a 24 años,25111,False,False,Mayores de edad,Mayores de Edad
+2020,Benito Juárez,25 a 29 años,37175,False,True,Mayores de edad,Mayores de Edad
+2020,Benito Juárez,30 a 34 años,45187,False,True,Mayores de edad,Mayores de Edad
+2020,Benito Juárez,35 a 39 años,42967,False,True,Mayores de edad,Mayores de Edad
+2020,Benito Juárez,40 a 44 años,36849,False,True,Mayores de edad,Mayores de Edad
+2020,Benito Juárez,45 a 49 años,33531,False,True,Mayores de edad,Mayores de Edad
+2020,Benito Juárez,50 a 54 años,29025,False,True,Mayores de edad,Mayores de Edad
+2020,Benito Juárez,55 a 59 años,26713,False,True,Mayores de edad,Mayores de Edad
+2020,Benito Juárez,60 a 64 años,25751,False,True,Mayores de edad,Mayores de Edad
+2020,Benito Juárez,65 a 69 años,20433,False,True,Mayores de edad,Mayores de Edad
+2020,Benito Juárez,70 a 74 años,16089,False,True,Mayores de edad,Mayores de Edad
+2020,Benito Juárez,75 a 79 años,10426,False,True,Mayores de edad,Mayores de Edad
+2020,Benito Juárez,80 a 84 años,7348,False,True,Mayores de edad,Mayores de Edad
+2020,Benito Juárez,85 a 89 años,4421,False,True,Mayores de edad,Mayores de Edad
+2020,Benito Juárez,90 a 94 años,2099,False,True,Mayores de edad,Mayores de Edad
+2020,Benito Juárez,95 a 99 años,660,False,True,Mayores de edad,Mayores de Edad
+2020,Benito Juárez,100 años y más,117,False,True,Mayores de edad,Mayores de Edad
+2020,Benito Juárez,No especificado,38,False,False,,
+2020,Coyoacán,0 a 4 años,26627,True,False,Menores de Edad,Menores de Edad
+2020,Coyoacán,5 a 9 años,30448,True,False,Menores de Edad,Menores de Edad
+2020,Coyoacán,10 a 14 años,34252,True,False,Menores de Edad,Menores de Edad
+2020,Coyoacán,15 a 19 años,39399,False,False,Menores de Edad,Menores de Edad
+2020,Coyoacán,20 a 24 años,47036,False,False,Mayores de edad,Mayores de Edad
+2020,Coyoacán,25 a 29 años,47839,False,True,Mayores de edad,Mayores de Edad
+2020,Coyoacán,30 a 34 años,45644,False,True,Mayores de edad,Mayores de Edad
+2020,Coyoacán,35 a 39 años,44680,False,True,Mayores de edad,Mayores de Edad
+2020,Coyoacán,40 a 44 años,44815,False,True,Mayores de edad,Mayores de Edad
+2020,Coyoacán,45 a 49 años,46180,False,True,Mayores de edad,Mayores de Edad
+2020,Coyoacán,50 a 54 años,43229,False,True,Mayores de edad,Mayores de Edad
+2020,Coyoacán,55 a 59 años,37578,False,True,Mayores de edad,Mayores de Edad
+2020,Coyoacán,60 a 64 años,36144,False,True,Mayores de edad,Mayores de Edad
+2020,Coyoacán,65 a 69 años,30490,False,True,Mayores de edad,Mayores de Edad
+2020,Coyoacán,70 a 74 años,24070,False,True,Mayores de edad,Mayores de Edad
+2020,Coyoacán,75 a 79 años,15949,False,True,Mayores de edad,Mayores de Edad
+2020,Coyoacán,80 a 84 años,10393,False,True,Mayores de edad,Mayores de Edad
+2020,Coyoacán,85 a 89 años,5837,False,True,Mayores de edad,Mayores de Edad
+2020,Coyoacán,90 a 94 años,2742,False,True,Mayores de edad,Mayores de Edad
+2020,Coyoacán,95 a 99 años,836,False,True,Mayores de edad,Mayores de Edad
+2020,Coyoacán,100 años y más,131,False,True,Mayores de edad,Mayores de Edad
+2020,Coyoacán,No especificado,128,False,False,,
+2020,Cuajimalpa de Morelos,0 a 4 años,14255,True,False,Menores de Edad,Menores de Edad
+2020,Cuajimalpa de Morelos,5 a 9 años,15279,True,False,Menores de Edad,Menores de Edad
+2020,Cuajimalpa de Morelos,10 a 14 años,15773,True,False,Menores de Edad,Menores de Edad
+2020,Cuajimalpa de Morelos,15 a 19 años,16776,False,False,Menores de Edad,Menores de Edad
+2020,Cuajimalpa de Morelos,20 a 24 años,18294,False,False,Mayores de edad,Mayores de Edad
+2020,Cuajimalpa de Morelos,25 a 29 años,18450,False,True,Mayores de edad,Mayores de Edad
+2020,Cuajimalpa de Morelos,30 a 34 años,18156,False,True,Mayores de edad,Mayores de Edad
+2020,Cuajimalpa de Morelos,35 a 39 años,16830,False,True,Mayores de edad,Mayores de Edad
+2020,Cuajimalpa de Morelos,40 a 44 años,15914,False,True,Mayores de edad,Mayores de Edad
+2020,Cuajimalpa de Morelos,45 a 49 años,15880,False,True,Mayores de edad,Mayores de Edad
+2020,Cuajimalpa de Morelos,50 a 54 años,14603,False,True,Mayores de edad,Mayores de Edad
+2020,Cuajimalpa de Morelos,55 a 59 años,11557,False,True,Mayores de edad,Mayores de Edad
+2020,Cuajimalpa de Morelos,60 a 64 años,9043,False,True,Mayores de edad,Mayores de Edad
+2020,Cuajimalpa de Morelos,65 a 69 años,6259,False,True,Mayores de edad,Mayores de Edad
+2020,Cuajimalpa de Morelos,70 a 74 años,4385,False,True,Mayores de edad,Mayores de Edad
+2020,Cuajimalpa de Morelos,75 a 79 años,2805,False,True,Mayores de edad,Mayores de Edad
+2020,Cuajimalpa de Morelos,80 a 84 años,1829,False,True,Mayores de edad,Mayores de Edad
+2020,Cuajimalpa de Morelos,85 a 89 años,1006,False,True,Mayores de edad,Mayores de Edad
+2020,Cuajimalpa de Morelos,90 a 94 años,354,False,True,Mayores de edad,Mayores de Edad
+2020,Cuajimalpa de Morelos,95 a 99 años,98,False,True,Mayores de edad,Mayores de Edad
+2020,Cuajimalpa de Morelos,100 años y más,24,False,True,Mayores de edad,Mayores de Edad
+2020,Cuajimalpa de Morelos,No especificado,116,False,False,,
+2020,Cuauhtémoc,0 a 4 años,26032,True,False,Menores de Edad,Menores de Edad
+2020,Cuauhtémoc,5 a 9 años,27530,True,False,Menores de Edad,Menores de Edad
+2020,Cuauhtémoc,10 a 14 años,29907,True,False,Menores de Edad,Menores de Edad
+2020,Cuauhtémoc,15 a 19 años,31790,False,False,Menores de Edad,Menores de Edad
+2020,Cuauhtémoc,20 a 24 años,38297,False,False,Mayores de edad,Mayores de Edad
+2020,Cuauhtémoc,25 a 29 años,50171,False,True,Mayores de edad,Mayores de Edad
+2020,Cuauhtémoc,30 a 34 años,53817,False,True,Mayores de edad,Mayores de Edad
+2020,Cuauhtémoc,35 a 39 años,47893,False,True,Mayores de edad,Mayores de Edad
+2020,Cuauhtémoc,40 a 44 años,40991,False,True,Mayores de edad,Mayores de Edad
+2020,Cuauhtémoc,45 a 49 años,38772,False,True,Mayores de edad,Mayores de Edad
+2020,Cuauhtémoc,50 a 54 años,35732,False,True,Mayores de edad,Mayores de Edad
+2020,Cuauhtémoc,55 a 59 años,31077,False,True,Mayores de edad,Mayores de Edad
+2020,Cuauhtémoc,60 a 64 años,29518,False,True,Mayores de edad,Mayores de Edad
+2020,Cuauhtémoc,65 a 69 años,22337,False,True,Mayores de edad,Mayores de Edad
+2020,Cuauhtémoc,70 a 74 años,16920,False,True,Mayores de edad,Mayores de Edad
+2020,Cuauhtémoc,75 a 79 años,10819,False,True,Mayores de edad,Mayores de Edad
+2020,Cuauhtémoc,80 a 84 años,7568,False,True,Mayores de edad,Mayores de Edad
+2020,Cuauhtémoc,85 a 89 años,4157,False,True,Mayores de edad,Mayores de Edad
+2020,Cuauhtémoc,90 a 94 años,1857,False,True,Mayores de edad,Mayores de Edad
+2020,Cuauhtémoc,95 a 99 años,546,False,True,Mayores de edad,Mayores de Edad
+2020,Cuauhtémoc,100 años y más,87,False,True,Mayores de edad,Mayores de Edad
+2020,Cuauhtémoc,No especificado,66,False,False,,
+2020,Gustavo A. Madero,0 a 4 años,63262,True,False,Menores de Edad,Menores de Edad
+2020,Gustavo A. Madero,5 a 9 años,71634,True,False,Menores de Edad,Menores de Edad
+2020,Gustavo A. Madero,10 a 14 años,77449,True,False,Menores de Edad,Menores de Edad
+2020,Gustavo A. Madero,15 a 19 años,84333,False,False,Menores de Edad,Menores de Edad
+2020,Gustavo A. Madero,20 a 24 años,91577,False,False,Mayores de edad,Mayores de Edad
+2020,Gustavo A. Madero,25 a 29 años,91448,False,True,Mayores de edad,Mayores de Edad
+2020,Gustavo A. Madero,30 a 34 años,87626,False,True,Mayores de edad,Mayores de Edad
+2020,Gustavo A. Madero,35 a 39 años,83599,False,True,Mayores de edad,Mayores de Edad
+2020,Gustavo A. Madero,40 a 44 años,81503,False,True,Mayores de edad,Mayores de Edad
+2020,Gustavo A. Madero,45 a 49 años,84691,False,True,Mayores de edad,Mayores de Edad
+2020,Gustavo A. Madero,50 a 54 años,82520,False,True,Mayores de edad,Mayores de Edad
+2020,Gustavo A. Madero,55 a 59 años,70006,False,True,Mayores de edad,Mayores de Edad
+2020,Gustavo A. Madero,60 a 64 años,62094,False,True,Mayores de edad,Mayores de Edad
+2020,Gustavo A. Madero,65 a 69 años,46560,False,True,Mayores de edad,Mayores de Edad
+2020,Gustavo A. Madero,70 a 74 años,36300,False,True,Mayores de edad,Mayores de Edad
+2020,Gustavo A. Madero,75 a 79 años,25079,False,True,Mayores de edad,Mayores de Edad
+2020,Gustavo A. Madero,80 a 84 años,17679,False,True,Mayores de edad,Mayores de Edad
+2020,Gustavo A. Madero,85 a 89 años,10023,False,True,Mayores de edad,Mayores de Edad
+2020,Gustavo A. Madero,90 a 94 años,4209,False,True,Mayores de edad,Mayores de Edad
+2020,Gustavo A. Madero,95 a 99 años,1338,False,True,Mayores de edad,Mayores de Edad
+2020,Gustavo A. Madero,100 años y más,187,False,True,Mayores de edad,Mayores de Edad
+2020,Gustavo A. Madero,No especificado,234,False,False,,
+2020,Iztacalco,0 a 4 años,20466,True,False,Menores de Edad,Menores de Edad
+2020,Iztacalco,5 a 9 años,23276,True,False,Menores de Edad,Menores de Edad
+2020,Iztacalco,10 a 14 años,25570,True,False,Menores de Edad,Menores de Edad
+2020,Iztacalco,15 a 19 años,27759,False,False,Menores de Edad,Menores de Edad
+2020,Iztacalco,20 a 24 años,30641,False,False,Mayores de edad,Mayores de Edad
+2020,Iztacalco,25 a 29 años,31727,False,True,Mayores de edad,Mayores de Edad
+2020,Iztacalco,30 a 34 años,31735,False,True,Mayores de edad,Mayores de Edad
+2020,Iztacalco,35 a 39 años,30107,False,True,Mayores de edad,Mayores de Edad
+2020,Iztacalco,40 a 44 años,28748,False,True,Mayores de edad,Mayores de Edad
+2020,Iztacalco,45 a 49 años,30076,False,True,Mayores de edad,Mayores de Edad
+2020,Iztacalco,50 a 54 años,28900,False,True,Mayores de edad,Mayores de Edad
+2020,Iztacalco,55 a 59 años,24605,False,True,Mayores de edad,Mayores de Edad
+2020,Iztacalco,60 a 64 años,21833,False,True,Mayores de edad,Mayores de Edad
+2020,Iztacalco,65 a 69 años,16292,False,True,Mayores de edad,Mayores de Edad
+2020,Iztacalco,70 a 74 años,12400,False,True,Mayores de edad,Mayores de Edad
+2020,Iztacalco,75 a 79 años,8395,False,True,Mayores de edad,Mayores de Edad
+2020,Iztacalco,80 a 84 años,6174,False,True,Mayores de edad,Mayores de Edad
+2020,Iztacalco,85 a 89 años,3638,False,True,Mayores de edad,Mayores de Edad
+2020,Iztacalco,90 a 94 años,1642,False,True,Mayores de edad,Mayores de Edad
+2020,Iztacalco,95 a 99 años,468,False,True,Mayores de edad,Mayores de Edad
+2020,Iztacalco,100 años y más,65,False,True,Mayores de edad,Mayores de Edad
+2020,Iztacalco,No especificado,178,False,False,,
+2020,Iztapalapa,0 a 4 años,103148,True,False,Menores de Edad,Menores de Edad
+2020,Iztapalapa,5 a 9 años,126728,True,False,Menores de Edad,Menores de Edad
+2020,Iztapalapa,10 a 14 años,136959,True,False,Menores de Edad,Menores de Edad
+2020,Iztapalapa,15 a 19 años,143193,False,False,Menores de Edad,Menores de Edad
+2020,Iztapalapa,20 a 24 años,150740,False,False,Mayores de edad,Mayores de Edad
+2020,Iztapalapa,25 a 29 años,151590,False,True,Mayores de edad,Mayores de Edad
+2020,Iztapalapa,30 a 34 años,144870,False,True,Mayores de edad,Mayores de Edad
+2020,Iztapalapa,35 a 39 años,136930,False,True,Mayores de edad,Mayores de Edad
+2020,Iztapalapa,40 a 44 años,131513,False,True,Mayores de edad,Mayores de Edad
+2020,Iztapalapa,45 a 49 años,129385,False,True,Mayores de edad,Mayores de Edad
+2020,Iztapalapa,50 a 54 años,118681,False,True,Mayores de edad,Mayores de Edad
+2020,Iztapalapa,55 a 59 años,99290,False,True,Mayores de edad,Mayores de Edad
+2020,Iztapalapa,60 a 64 años,87752,False,True,Mayores de edad,Mayores de Edad
+2020,Iztapalapa,65 a 69 años,64935,False,True,Mayores de edad,Mayores de Edad
+2020,Iztapalapa,70 a 74 años,46866,False,True,Mayores de edad,Mayores de Edad
+2020,Iztapalapa,75 a 79 años,29463,False,True,Mayores de edad,Mayores de Edad
+2020,Iztapalapa,80 a 84 años,17848,False,True,Mayores de edad,Mayores de Edad
+2020,Iztapalapa,85 a 89 años,9780,False,True,Mayores de edad,Mayores de Edad
+2020,Iztapalapa,90 a 94 años,3883,False,True,Mayores de edad,Mayores de Edad
+2020,Iztapalapa,95 a 99 años,1337,False,True,Mayores de edad,Mayores de Edad
+2020,Iztapalapa,100 años y más,200,False,True,Mayores de edad,Mayores de Edad
+2020,Iztapalapa,No especificado,395,False,False,,
+2020,La Magdalena Contreras,0 a 4 años,13012,True,False,Menores de Edad,Menores de Edad
+2020,La Magdalena Contreras,5 a 9 años,16270,True,False,Menores de Edad,Menores de Edad
+2020,La Magdalena Contreras,10 a 14 años,18096,True,False,Menores de Edad,Menores de Edad
+2020,La Magdalena Contreras,15 a 19 años,18889,False,False,Menores de Edad,Menores de Edad
+2020,La Magdalena Contreras,20 a 24 años,19969,False,False,Mayores de edad,Mayores de Edad
+2020,La Magdalena Contreras,25 a 29 años,19833,False,True,Mayores de edad,Mayores de Edad
+2020,La Magdalena Contreras,30 a 34 años,18142,False,True,Mayores de edad,Mayores de Edad
+2020,La Magdalena Contreras,35 a 39 años,17677,False,True,Mayores de edad,Mayores de Edad
+2020,La Magdalena Contreras,40 a 44 años,17816,False,True,Mayores de edad,Mayores de Edad
+2020,La Magdalena Contreras,45 a 49 años,18821,False,True,Mayores de edad,Mayores de Edad
+2020,La Magdalena Contreras,50 a 54 años,17234,False,True,Mayores de edad,Mayores de Edad
+2020,La Magdalena Contreras,55 a 59 años,13747,False,True,Mayores de edad,Mayores de Edad
+2020,La Magdalena Contreras,60 a 64 años,12007,False,True,Mayores de edad,Mayores de Edad
+2020,La Magdalena Contreras,65 a 69 años,9248,False,True,Mayores de edad,Mayores de Edad
+2020,La Magdalena Contreras,70 a 74 años,6846,False,True,Mayores de edad,Mayores de Edad
+2020,La Magdalena Contreras,75 a 79 años,4482,False,True,Mayores de edad,Mayores de Edad
+2020,La Magdalena Contreras,80 a 84 años,2832,False,True,Mayores de edad,Mayores de Edad
+2020,La Magdalena Contreras,85 a 89 años,1661,False,True,Mayores de edad,Mayores de Edad
+2020,La Magdalena Contreras,90 a 94 años,731,False,True,Mayores de edad,Mayores de Edad
+2020,La Magdalena Contreras,95 a 99 años,239,False,True,Mayores de edad,Mayores de Edad
+2020,La Magdalena Contreras,100 años y más,27,False,True,Mayores de edad,Mayores de Edad
+2020,La Magdalena Contreras,No especificado,43,False,False,,
+2020,Miguel Hidalgo,0 a 4 años,19979,True,False,Menores de Edad,Menores de Edad
+2020,Miguel Hidalgo,5 a 9 años,20874,True,False,Menores de Edad,Menores de Edad
+2020,Miguel Hidalgo,10 a 14 años,21642,True,False,Menores de Edad,Menores de Edad
+2020,Miguel Hidalgo,15 a 19 años,22594,False,False,Menores de Edad,Menores de Edad
+2020,Miguel Hidalgo,20 a 24 años,27044,False,False,Mayores de edad,Mayores de Edad
+2020,Miguel Hidalgo,25 a 29 años,34671,False,True,Mayores de edad,Mayores de Edad
+2020,Miguel Hidalgo,30 a 34 años,38603,False,True,Mayores de edad,Mayores de Edad
+2020,Miguel Hidalgo,35 a 39 años,36202,False,True,Mayores de edad,Mayores de Edad
+2020,Miguel Hidalgo,40 a 44 años,33148,False,True,Mayores de edad,Mayores de Edad
+2020,Miguel Hidalgo,45 a 49 años,31242,False,True,Mayores de edad,Mayores de Edad
+2020,Miguel Hidalgo,50 a 54 años,27808,False,True,Mayores de edad,Mayores de Edad
+2020,Miguel Hidalgo,55 a 59 años,23626,False,True,Mayores de edad,Mayores de Edad
+2020,Miguel Hidalgo,60 a 64 años,20928,False,True,Mayores de edad,Mayores de Edad
+2020,Miguel Hidalgo,65 a 69 años,16325,False,True,Mayores de edad,Mayores de Edad
+2020,Miguel Hidalgo,70 a 74 años,12683,False,True,Mayores de edad,Mayores de Edad
+2020,Miguel Hidalgo,75 a 79 años,8960,False,True,Mayores de edad,Mayores de Edad
+2020,Miguel Hidalgo,80 a 84 años,6179,False,True,Mayores de edad,Mayores de Edad
+2020,Miguel Hidalgo,85 a 89 años,3646,False,True,Mayores de edad,Mayores de Edad
+2020,Miguel Hidalgo,90 a 94 años,1763,False,True,Mayores de edad,Mayores de Edad
+2020,Miguel Hidalgo,95 a 99 años,541,False,True,Mayores de edad,Mayores de Edad
+2020,Miguel Hidalgo,100 años y más,86,False,True,Mayores de edad,Mayores de Edad
+2020,Miguel Hidalgo,No especificado,5926,False,False,,
+2020,Milpa Alta,0 a 4 años,10348,True,False,Menores de Edad,Menores de Edad
+2020,Milpa Alta,5 a 9 años,12665,True,False,Menores de Edad,Menores de Edad
+2020,Milpa Alta,10 a 14 años,13298,True,False,Menores de Edad,Menores de Edad
+2020,Milpa Alta,15 a 19 años,13445,False,False,Menores de Edad,Menores de Edad
+2020,Milpa Alta,20 a 24 años,13391,False,False,Mayores de edad,Mayores de Edad
+2020,Milpa Alta,25 a 29 años,12949,False,True,Mayores de edad,Mayores de Edad
+2020,Milpa Alta,30 a 34 años,11690,False,True,Mayores de edad,Mayores de Edad
+2020,Milpa Alta,35 a 39 años,10995,False,True,Mayores de edad,Mayores de Edad
+2020,Milpa Alta,40 a 44 años,10591,False,True,Mayores de edad,Mayores de Edad
+2020,Milpa Alta,45 a 49 años,10215,False,True,Mayores de edad,Mayores de Edad
+2020,Milpa Alta,50 a 54 años,9428,False,True,Mayores de edad,Mayores de Edad
+2020,Milpa Alta,55 a 59 años,7219,False,True,Mayores de edad,Mayores de Edad
+2020,Milpa Alta,60 a 64 años,5696,False,True,Mayores de edad,Mayores de Edad
+2020,Milpa Alta,65 a 69 años,4012,False,True,Mayores de edad,Mayores de Edad
+2020,Milpa Alta,70 a 74 años,2761,False,True,Mayores de edad,Mayores de Edad
+2020,Milpa Alta,75 a 79 años,1830,False,True,Mayores de edad,Mayores de Edad
+2020,Milpa Alta,80 a 84 años,1146,False,True,Mayores de edad,Mayores de Edad
+2020,Milpa Alta,85 a 89 años,622,False,True,Mayores de edad,Mayores de Edad
+2020,Milpa Alta,90 a 94 años,277,False,True,Mayores de edad,Mayores de Edad
+2020,Milpa Alta,95 a 99 años,87,False,True,Mayores de edad,Mayores de Edad
+2020,Milpa Alta,100 años y más,6,False,True,Mayores de edad,Mayores de Edad
+2020,Milpa Alta,No especificado,14,False,False,,
+2020,Tláhuac,0 a 4 años,23715,True,False,Menores de Edad,Menores de Edad
+2020,Tláhuac,5 a 9 años,29097,True,False,Menores de Edad,Menores de Edad
+2020,Tláhuac,10 a 14 años,31239,True,False,Menores de Edad,Menores de Edad
+2020,Tláhuac,15 a 19 años,32389,False,False,Menores de Edad,Menores de Edad
+2020,Tláhuac,20 a 24 años,33573,False,False,Mayores de edad,Mayores de Edad
+2020,Tláhuac,25 a 29 años,33430,False,True,Mayores de edad,Mayores de Edad
+2020,Tláhuac,30 a 34 años,30567,False,True,Mayores de edad,Mayores de Edad
+2020,Tláhuac,35 a 39 años,28805,False,True,Mayores de edad,Mayores de Edad
+2020,Tláhuac,40 a 44 años,27822,False,True,Mayores de edad,Mayores de Edad
+2020,Tláhuac,45 a 49 años,28300,False,True,Mayores de edad,Mayores de Edad
+2020,Tláhuac,50 a 54 años,26238,False,True,Mayores de edad,Mayores de Edad
+2020,Tláhuac,55 a 59 años,20797,False,True,Mayores de edad,Mayores de Edad
+2020,Tláhuac,60 a 64 años,16593,False,True,Mayores de edad,Mayores de Edad
+2020,Tláhuac,65 a 69 años,11511,False,True,Mayores de edad,Mayores de Edad
+2020,Tláhuac,70 a 74 años,7924,False,True,Mayores de edad,Mayores de Edad
+2020,Tláhuac,75 a 79 años,4627,False,True,Mayores de edad,Mayores de Edad
+2020,Tláhuac,80 a 84 años,3017,False,True,Mayores de edad,Mayores de Edad
+2020,Tláhuac,85 a 89 años,1624,False,True,Mayores de edad,Mayores de Edad
+2020,Tláhuac,90 a 94 años,662,False,True,Mayores de edad,Mayores de Edad
+2020,Tláhuac,95 a 99 años,222,False,True,Mayores de edad,Mayores de Edad
+2020,Tláhuac,100 años y más,16,False,True,Mayores de edad,Mayores de Edad
+2020,Tláhuac,No especificado,145,False,False,,
+2020,Tlalpan,0 a 4 años,34857,True,False,Menores de Edad,Menores de Edad
+2020,Tlalpan,5 a 9 años,45252,True,False,Menores de Edad,Menores de Edad
+2020,Tlalpan,10 a 14 años,49043,True,False,Menores de Edad,Menores de Edad
+2020,Tlalpan,15 a 19 años,52955,False,False,Menores de Edad,Menores de Edad
+2020,Tlalpan,20 a 24 años,57573,False,False,Mayores de edad,Mayores de Edad
+2020,Tlalpan,25 a 29 años,56410,False,True,Mayores de edad,Mayores de Edad
+2020,Tlalpan,30 a 34 años,54450,False,True,Mayores de edad,Mayores de Edad
+2020,Tlalpan,35 a 39 años,52830,False,True,Mayores de edad,Mayores de Edad
+2020,Tlalpan,40 a 44 años,51206,False,True,Mayores de edad,Mayores de Edad
+2020,Tlalpan,45 a 49 años,51075,False,True,Mayores de edad,Mayores de Edad
+2020,Tlalpan,50 a 54 años,46290,False,True,Mayores de edad,Mayores de Edad
+2020,Tlalpan,55 a 59 años,38562,False,True,Mayores de edad,Mayores de Edad
+2020,Tlalpan,60 a 64 años,34838,False,True,Mayores de edad,Mayores de Edad
+2020,Tlalpan,65 a 69 años,26970,False,True,Mayores de edad,Mayores de Edad
+2020,Tlalpan,70 a 74 años,19759,False,True,Mayores de edad,Mayores de Edad
+2020,Tlalpan,75 a 79 años,12570,False,True,Mayores de edad,Mayores de Edad
+2020,Tlalpan,80 a 84 años,8058,False,True,Mayores de edad,Mayores de Edad
+2020,Tlalpan,85 a 89 años,4202,False,True,Mayores de edad,Mayores de Edad
+2020,Tlalpan,90 a 94 años,1845,False,True,Mayores de edad,Mayores de Edad
+2020,Tlalpan,95 a 99 años,564,False,True,Mayores de edad,Mayores de Edad
+2020,Tlalpan,100 años y más,88,False,True,Mayores de edad,Mayores de Edad
+2020,Tlalpan,No especificado,531,False,False,,
+2020,Venustiano Carranza,0 a 4 años,23147,True,False,Menores de Edad,Menores de Edad
+2020,Venustiano Carranza,5 a 9 años,26760,True,False,Menores de Edad,Menores de Edad
+2020,Venustiano Carranza,10 a 14 años,28174,True,False,Menores de Edad,Menores de Edad
+2020,Venustiano Carranza,15 a 19 años,30110,False,False,Menores de Edad,Menores de Edad
+2020,Venustiano Carranza,20 a 24 años,32983,False,False,Mayores de edad,Mayores de Edad
+2020,Venustiano Carranza,25 a 29 años,34920,False,True,Mayores de edad,Mayores de Edad
+2020,Venustiano Carranza,30 a 34 años,34441,False,True,Mayores de edad,Mayores de Edad
+2020,Venustiano Carranza,35 a 39 años,32721,False,True,Mayores de edad,Mayores de Edad
+2020,Venustiano Carranza,40 a 44 años,31216,False,True,Mayores de edad,Mayores de Edad
+2020,Venustiano Carranza,45 a 49 años,31846,False,True,Mayores de edad,Mayores de Edad
+2020,Venustiano Carranza,50 a 54 años,30804,False,True,Mayores de edad,Mayores de Edad
+2020,Venustiano Carranza,55 a 59 años,27203,False,True,Mayores de edad,Mayores de Edad
+2020,Venustiano Carranza,60 a 64 años,24730,False,True,Mayores de edad,Mayores de Edad
+2020,Venustiano Carranza,65 a 69 años,18317,False,True,Mayores de edad,Mayores de Edad
+2020,Venustiano Carranza,70 a 74 años,13837,False,True,Mayores de edad,Mayores de Edad
+2020,Venustiano Carranza,75 a 79 años,9203,False,True,Mayores de edad,Mayores de Edad
+2020,Venustiano Carranza,80 a 84 años,6672,False,True,Mayores de edad,Mayores de Edad
+2020,Venustiano Carranza,85 a 89 años,3909,False,True,Mayores de edad,Mayores de Edad
+2020,Venustiano Carranza,90 a 94 años,1686,False,True,Mayores de edad,Mayores de Edad
+2020,Venustiano Carranza,95 a 99 años,538,False,True,Mayores de edad,Mayores de Edad
+2020,Venustiano Carranza,100 años y más,72,False,True,Mayores de edad,Mayores de Edad
+2020,Venustiano Carranza,No especificado,415,False,False,,
+2020,Xochimilco,0 a 4 años,24870,True,False,Menores de Edad,Menores de Edad
+2020,Xochimilco,5 a 9 años,30905,True,False,Menores de Edad,Menores de Edad
+2020,Xochimilco,10 a 14 años,33274,True,False,Menores de Edad,Menores de Edad
+2020,Xochimilco,15 a 19 años,34956,False,False,Menores de Edad,Menores de Edad
+2020,Xochimilco,20 a 24 años,36979,False,False,Mayores de edad,Mayores de Edad
+2020,Xochimilco,25 a 29 años,36563,False,True,Mayores de edad,Mayores de Edad
+2020,Xochimilco,30 a 34 años,34292,False,True,Mayores de edad,Mayores de Edad
+2020,Xochimilco,35 a 39 años,33280,False,True,Mayores de edad,Mayores de Edad
+2020,Xochimilco,40 a 44 años,31786,False,True,Mayores de edad,Mayores de Edad
+2020,Xochimilco,45 a 49 años,31099,False,True,Mayores de edad,Mayores de Edad
+2020,Xochimilco,50 a 54 años,29135,False,True,Mayores de edad,Mayores de Edad
+2020,Xochimilco,55 a 59 años,23843,False,True,Mayores de edad,Mayores de Edad
+2020,Xochimilco,60 a 64 años,20294,False,True,Mayores de edad,Mayores de Edad
+2020,Xochimilco,65 a 69 años,14945,False,True,Mayores de edad,Mayores de Edad
+2020,Xochimilco,70 a 74 años,10875,False,True,Mayores de edad,Mayores de Edad
+2020,Xochimilco,75 a 79 años,6794,False,True,Mayores de edad,Mayores de Edad
+2020,Xochimilco,80 a 84 años,4235,False,True,Mayores de edad,Mayores de Edad
+2020,Xochimilco,85 a 89 años,2460,False,True,Mayores de edad,Mayores de Edad
+2020,Xochimilco,90 a 94 años,1009,False,True,Mayores de edad,Mayores de Edad
+2020,Xochimilco,95 a 99 años,342,False,True,Mayores de edad,Mayores de Edad
+2020,Xochimilco,100 años y más,33,False,True,Mayores de edad,Mayores de Edad
+2020,Xochimilco,No especificado,209,False,False,,

@@ -25,11 +25,16 @@ class MapasGeoJsonService:
             with open(nombre_archivo, 'r') as file:
                 geojson_data = file.read()
                 geojson_data = json.loads(geojson_data)
-
                 return jsonify({'geojson_data': geojson_data})
         elif csv_file == '5':
             nombre_archivo = './csv_mapas/hamburguesas_04_12.geojson'
             with open('./csv_mapas/hamburguesas_04_12.geojson', 'r') as file:
+                geojson_data = file.read()
+                geojson_data = json.loads(geojson_data)
+                return jsonify({'geojson_data': geojson_data})
+        elif csv_file == '6':
+            nombre_archivo = './csv_mapas/flan_04_12.geojson'
+            with open('./csv_mapas/flan_04_12.geojson', 'r') as file:
                 geojson_data = file.read()
                 geojson_data = json.loads(geojson_data)
 
@@ -42,11 +47,11 @@ class MapasGeoJsonService:
     @staticmethod
     def convertir_csv_a_geojson(csv_file):
         df = pd.read_csv(csv_file)
-        print(df.head(3))
+        #print(df.head(3))
         geometry = [Point(xy) for xy in zip(df['longitud'], df['latitud'])]
         gdf = gpd.GeoDataFrame(df, geometry=geometry, crs='EPSG:4326')
         geojson_data = gdf.to_crs('EPSG:4326').to_json()
-        print(type(geojson_data))
+        #print(type(geojson_data))
         return geojson_data
     
 

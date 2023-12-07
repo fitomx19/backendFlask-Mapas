@@ -1,0 +1,2340 @@
+{
+    "0": {
+        "id_negocio": "0",
+        "zona_encontrada": "Corredor Santa Fe",
+        "ubicacion": " Jose Maria Castorena 232,  El Yaqui, Cuajimalpa de Morelos",
+        "ids_zona": 0.96492692037,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "1": {
+        "id_negocio": "1",
+        "zona_encontrada": "Narvarte Iii",
+        "ubicacion": " División del Norte 327,  Del Valle Centro, Benito Juárez",
+        "ids_zona": 0.91601372903,
+        "e_ids_v_zona": "Alto"
+    },
+    "2": {
+        "id_negocio": "2",
+        "zona_encontrada": "Sindicato Mexicano De Electricistas",
+        "ubicacion": " AVENIDA AQUILES SERDAN 400,  Nextengo, Azcapotzalco",
+        "ids_zona": 0.93687080417,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "3": {
+        "id_negocio": "3",
+        "zona_encontrada": "Del Valle Ii",
+        "ubicacion": " Montecito 38,  Nápoles, Benito Juárez",
+        "ids_zona": 0.94188761915,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "4": {
+        "id_negocio": "4",
+        "zona_encontrada": "Lomas De Chapultepec I",
+        "ubicacion": " Avenida de las Palmas 1065,  Lomas de Chapultepec, Miguel Hidalgo",
+        "ids_zona": 0.9577453127,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "5": {
+        "id_negocio": "5",
+        "zona_encontrada": "Narvarte V",
+        "ubicacion": " gabriel mancera 941,  Del Valle Centro, Benito Juárez",
+        "ids_zona": 0.94700831389,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "6": {
+        "id_negocio": "6",
+        "zona_encontrada": "Florida",
+        "ubicacion": " Avenida Insurgentes Sur 1700,  Guadalupe Inn, Alvaro Obregón",
+        "ids_zona": 0.95291456429,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "7": {
+        "id_negocio": "7",
+        "zona_encontrada": "Tlatilco",
+        "ubicacion": " Plan de San Luis 461,  Nueva Santa Maria, Azcapotzalco",
+        "ids_zona": 0.87912616765,
+        "e_ids_v_zona": "Medio"
+    },
+    "8": {
+        "id_negocio": "8",
+        "zona_encontrada": "Centro Vii",
+        "ubicacion": " REPUBLICA DE EL SALVADOR 35,  Centro , Cuauhtémoc",
+        "ids_zona": 0.68683789375,
+        "e_ids_v_zona": "Muy Bajo"
+    },
+    "9": {
+        "id_negocio": "9",
+        "zona_encontrada": "Roma Sur I",
+        "ubicacion": " Campeche,  Roma Sur, Cuauhtémoc",
+        "ids_zona": 0.8965680375,
+        "e_ids_v_zona": "Alto"
+    },
+    "10": {
+        "id_negocio": "10",
+        "zona_encontrada": "Obrera Iii",
+        "ubicacion": " Doctor Barragán 307,  Doctores, Cuauhtémoc",
+        "ids_zona": 0.83968193333,
+        "e_ids_v_zona": "Medio"
+    },
+    "11": {
+        "id_negocio": "11",
+        "zona_encontrada": "Roma Sur Ii",
+        "ubicacion": " Baja California,  Condesa, Cuauhtémoc",
+        "ids_zona": 0.91875174118,
+        "e_ids_v_zona": "Alto"
+    },
+    "12": {
+        "id_negocio": "12",
+        "zona_encontrada": "Del Valle Ii",
+        "ubicacion": " MONTECITO 38,  Nápoles, Benito Juárez",
+        "ids_zona": 0.94188761915,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "13": {
+        "id_negocio": "13",
+        "zona_encontrada": "Roma Norte Ii",
+        "ubicacion": " JUAREZ,  Juárez, Cuauhtémoc",
+        "ids_zona": 0.90262521591,
+        "e_ids_v_zona": "Alto"
+    },
+    "14": {
+        "id_negocio": "14",
+        "zona_encontrada": "Hipodromo Ii",
+        "ubicacion": " Avenida Baja California 300,  Hipódromo, Cuauhtémoc",
+        "ids_zona": 0.91871100678,
+        "e_ids_v_zona": "Alto"
+    },
+    "15": {
+        "id_negocio": "15",
+        "zona_encontrada": "Asturias",
+        "ubicacion": " Marcelino Dávalos 53, Col. Algarín,  Algarín, Cuauhtémoc",
+        "ids_zona": 0.86686842963,
+        "e_ids_v_zona": "Medio"
+    },
+    "16": {
+        "id_negocio": "16",
+        "zona_encontrada": "Asturias",
+        "ubicacion": " Marcelino Dávalos 53 Colonia Algarín Cuauhtémoc Ciudad de México,  Algarín, Cuauhtémoc",
+        "ids_zona": 0.86686842963,
+        "e_ids_v_zona": "Medio"
+    },
+    "17": {
+        "id_negocio": "17",
+        "zona_encontrada": "Niños Heroes De Chapultepec",
+        "ubicacion": " Bolivar 1025 B,  Niños Héroes, Benito Juárez",
+        "ids_zona": 0.89946672653,
+        "e_ids_v_zona": "Alto"
+    },
+    "18": {
+        "id_negocio": "18",
+        "zona_encontrada": "Asturias",
+        "ubicacion": " Marcelino Dávalos 53,  Algarín, Cuauhtémoc",
+        "ids_zona": 0.86686842963,
+        "e_ids_v_zona": "Medio"
+    },
+    "19": {
+        "id_negocio": "19",
+        "zona_encontrada": "Progreso Nacional I",
+        "ubicacion": " calzada vallejo 1657,  Ampliación Progreso Nacional, Gustavo A. Madero",
+        "ids_zona": 0.83706438788,
+        "e_ids_v_zona": "Medio"
+    },
+    "20": {
+        "id_negocio": "20",
+        "zona_encontrada": "Hipodromo Ii",
+        "ubicacion": " Avenida Baja California 295,  Condesa, Cuauhtémoc",
+        "ids_zona": 0.91871100678,
+        "e_ids_v_zona": "Alto"
+    },
+    "21": {
+        "id_negocio": "21",
+        "zona_encontrada": "Del Valle Ii",
+        "ubicacion": " Montecito,  Nápoles, Benito Juárez",
+        "ids_zona": 0.94188761915,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "22": {
+        "id_negocio": "22",
+        "zona_encontrada": "San Jose Aculco",
+        "ubicacion": " Av. Rio Churubusco 1072,  Nueva Rosita, Iztapalapa",
+        "ids_zona": 0.72796867636,
+        "e_ids_v_zona": "Muy Bajo"
+    },
+    "23": {
+        "id_negocio": "23",
+        "zona_encontrada": "Irrigacion",
+        "ubicacion": " Av. Lomas de Sotelo,  Lomas de Sotelo, Miguel Hidalgo",
+        "ids_zona": 0.95522257727,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "24": {
+        "id_negocio": "24",
+        "zona_encontrada": "Las Campanas",
+        "ubicacion": " Los Girasoles ,  Los Girasoles, Coyoacán",
+        "ids_zona": 0.96456851111,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "25": {
+        "id_negocio": "25",
+        "zona_encontrada": "Tlaxpana",
+        "ubicacion": " Parques Plaza Calle Lago Alberto 442 20A ,  Anáhuac I Sección, Miguel Hidalgo",
+        "ids_zona": 0.85700819583,
+        "e_ids_v_zona": "Medio"
+    },
+    "27": {
+        "id_negocio": "27",
+        "zona_encontrada": "Veronica Anzures",
+        "ubicacion": " Verónica Anzures,  Verónica Anzures, Miguel Hidalgo",
+        "ids_zona": 0.92401624333,
+        "e_ids_v_zona": "Alto"
+    },
+    "28": {
+        "id_negocio": "28",
+        "zona_encontrada": "Sindicato Mexicano De Electricistas",
+        "ubicacion": " AVENIDA AQUILES SERDAN 400,  Nextengo, Azcapotzalco",
+        "ids_zona": 0.93687080417,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "29": {
+        "id_negocio": "29",
+        "zona_encontrada": "Lomas De Chapultepec I",
+        "ubicacion": " Prado Norte.,  Lomas de Chapultepec, Miguel Hidalgo",
+        "ids_zona": 0.9577453127,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "30": {
+        "id_negocio": "30",
+        "zona_encontrada": "Transito",
+        "ubicacion": " 5 de febrero,  Obrera, Cuauhtémoc",
+        "ids_zona": 0.80217720877,
+        "e_ids_v_zona": "Bajo"
+    },
+    "31": {
+        "id_negocio": "31",
+        "zona_encontrada": "Mixcoac",
+        "ubicacion": " calle guijas ,  La Cascada, Alvaro Obregón",
+        "ids_zona": 0.90372532581,
+        "e_ids_v_zona": "Alto"
+    },
+    "32": {
+        "id_negocio": "32",
+        "zona_encontrada": "Cuauhtemoc",
+        "ubicacion": " Galerías Plaza de las Estrellas,  Miguel Hidalgo, Ciudad de México",
+        "ids_zona": 0.85116574483,
+        "e_ids_v_zona": "Medio"
+    },
+    "33": {
+        "id_negocio": "33",
+        "zona_encontrada": "Niños Heroes De Chapultepec",
+        "ubicacion": " Miguel Negrete,  Niños Héroes, Benito Juárez",
+        "ids_zona": 0.89946672653,
+        "e_ids_v_zona": "Alto"
+    },
+    "34": {
+        "id_negocio": "34",
+        "zona_encontrada": "Polanco Reforma (Polanco)",
+        "ubicacion": " Homero ,  Polanco, Miguel Hidalgo",
+        "ids_zona": 0.96641763415,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "35": {
+        "id_negocio": "35",
+        "zona_encontrada": "Hipodromo Ii",
+        "ubicacion": " Baja California ,  Hipódromo, Cuauhtémoc",
+        "ids_zona": 0.91871100678,
+        "e_ids_v_zona": "Alto"
+    },
+    "36": {
+        "id_negocio": "36",
+        "zona_encontrada": "Cuauhtemoc",
+        "ubicacion": " Rio Nazas 67,  Cuauhtémoc, Cuauhtémoc",
+        "ids_zona": 0.85116574483,
+        "e_ids_v_zona": "Medio"
+    },
+    "37": {
+        "id_negocio": "37",
+        "zona_encontrada": "San Lorenzo La Cebada Ii",
+        "ubicacion": " PASEO DE LOS OLIVOS 28,  Paseos del Sur, Xochimilco",
+        "ids_zona": 0.87504739286,
+        "e_ids_v_zona": "Medio"
+    },
+    "38": {
+        "id_negocio": "38",
+        "zona_encontrada": "M Maza De Juarez (U Hab)",
+        "ubicacion": " Pípila,  Guadalupe del Moral, Iztapalapa",
+        "ids_zona": 0.91410363333,
+        "e_ids_v_zona": "Alto"
+    },
+    "39": {
+        "id_negocio": "39",
+        "zona_encontrada": "Moctezuma 2a Seccion Iii",
+        "ubicacion": " IDÍLICA VÍAS 7,  Moctezuma, Venustiano Carranza",
+        "ids_zona": 0.84901707069,
+        "e_ids_v_zona": "Medio"
+    },
+    "40": {
+        "id_negocio": "40",
+        "zona_encontrada": "Centro V",
+        "ubicacion": " delicias,  Centro , Cuauhtémoc",
+        "ids_zona": 0.7831363,
+        "e_ids_v_zona": "Bajo"
+    },
+    "41": {
+        "id_negocio": "41",
+        "zona_encontrada": "Centro Vi",
+        "ubicacion": " Plaza izazaga n. 29, col. Centro, Cuauhtemoc,  Centro , Cuauhtémoc",
+        "ids_zona": 0.72550054545,
+        "e_ids_v_zona": "Muy Bajo"
+    },
+    "42": {
+        "id_negocio": "42",
+        "zona_encontrada": "Corredor Santa Fe",
+        "ubicacion": " AVENIDA JOSE MARIA CASTORENA 425,  Cuajimalpa, Cuajimalpa de Morelos",
+        "ids_zona": 0.96492692037,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "43": {
+        "id_negocio": "43",
+        "zona_encontrada": "Paulino Navarro",
+        "ubicacion": " Manuel Payno ,  Obrera, Cuauhtémoc",
+        "ids_zona": 0.8849424907,
+        "e_ids_v_zona": "Alto"
+    },
+    "44": {
+        "id_negocio": "44",
+        "zona_encontrada": "Hipodromo Ii",
+        "ubicacion": " Av Baja California ,  Hipódromo Condesa, Cuauhtémoc",
+        "ids_zona": 0.91871100678,
+        "e_ids_v_zona": "Alto"
+    },
+    "45": {
+        "id_negocio": "45",
+        "zona_encontrada": "Barrio La  Lonja",
+        "ubicacion": " Corregidora 115 B, Barrio Caramaguey,  Barrio de Caramagüey, Tlalpan",
+        "ids_zona": 0.87833866667,
+        "e_ids_v_zona": "Medio"
+    },
+    "46": {
+        "id_negocio": "46",
+        "zona_encontrada": "Doctores I",
+        "ubicacion": " NAPOLES ,  Juárez, Cuauhtémoc",
+        "ids_zona": 0.85715168529,
+        "e_ids_v_zona": "Medio"
+    },
+    "47": {
+        "id_negocio": "47",
+        "zona_encontrada": "Doctores I",
+        "ubicacion": " NAPOLES 60,  Juárez, Cuauhtémoc",
+        "ids_zona": 0.85715168529,
+        "e_ids_v_zona": "Medio"
+    },
+    "48": {
+        "id_negocio": "48",
+        "zona_encontrada": "Pensador Mexicano I",
+        "ubicacion": " Norte  Colonia Pensador Mexicano Alcaldía Venustiano Carranza,  Pensador Mexicano, Venustiano Carranza",
+        "ids_zona": 0.82570602222,
+        "e_ids_v_zona": "Bajo"
+    },
+    "49": {
+        "id_negocio": "49",
+        "zona_encontrada": "Granjas San Antonio",
+        "ubicacion": " SUR ,  Héroes de Churubusco, Iztapalapa",
+        "ids_zona": 0.89477144524,
+        "e_ids_v_zona": "Alto"
+    },
+    "50": {
+        "id_negocio": "50",
+        "zona_encontrada": "Corredor Santa Fe",
+        "ubicacion": " AVENIDA JOSE MARIA CASTORENA ,  José Maria Castorena, Cuajimalpa de Morelos",
+        "ids_zona": 0.96492692037,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "51": {
+        "id_negocio": "51",
+        "zona_encontrada": "Transito",
+        "ubicacion": " Manuel J. Othón ,  Obrera, Cuauhtémoc",
+        "ids_zona": 0.80217720877,
+        "e_ids_v_zona": "Bajo"
+    },
+    "52": {
+        "id_negocio": "52",
+        "zona_encontrada": "Tacuba",
+        "ubicacion": " Golfo de San Lorenzo No. 41 ,  Tacuba, Miguel Hidalgo",
+        "ids_zona": 0.86965407097,
+        "e_ids_v_zona": "Medio"
+    },
+    "53": {
+        "id_negocio": "53",
+        "zona_encontrada": "Corredor Santa Fe",
+        "ubicacion": " Vasco de Quiroga 5000,  Contadero, Cuajimalpa de Morelos",
+        "ids_zona": 0.96492692037,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "54": {
+        "id_negocio": "54",
+        "zona_encontrada": "Granjas Esmeralda",
+        "ubicacion": " orion,  Prado Churubusco, Coyoacán",
+        "ids_zona": 0.92504212581,
+        "e_ids_v_zona": "Alto"
+    },
+    "55": {
+        "id_negocio": "55",
+        "zona_encontrada": "Los Angeles Apanoaya",
+        "ubicacion": " Los Angeles ,  Los Angeles, Iztapalapa",
+        "ids_zona": 0.87874768367,
+        "e_ids_v_zona": "Medio"
+    },
+    "56": {
+        "id_negocio": "56",
+        "zona_encontrada": "Merced Gomez",
+        "ubicacion": " Avenida Centenario 400,  Merced Gómez, Alvaro Obregón",
+        "ids_zona": 0.9068120679,
+        "e_ids_v_zona": "Alto"
+    },
+    "57": {
+        "id_negocio": "57",
+        "zona_encontrada": "Del Valle V",
+        "ubicacion": " FELIX CUEVAS,  Del Valle Centro, Benito Juárez",
+        "ids_zona": 0.94952989773,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "58": {
+        "id_negocio": "58",
+        "zona_encontrada": "Doctores I",
+        "ubicacion": " NAPOLES 60,  Juárez, Cuauhtémoc",
+        "ids_zona": 0.85715168529,
+        "e_ids_v_zona": "Medio"
+    },
+    "59": {
+        "id_negocio": "59",
+        "zona_encontrada": "Aldana",
+        "ubicacion": " Calle 16 514,  Pro-Hogar, Azcapotzalco",
+        "ids_zona": 0.84508557273,
+        "e_ids_v_zona": "Medio"
+    },
+    "60": {
+        "id_negocio": "60",
+        "zona_encontrada": "Asturias (Ampl)",
+        "ubicacion": " Calz. Chabacano 75, Asturias, Cuauhtémoc, 06890 Ciudad de México, CDMX,  Asturias, Cuauhtémoc",
+        "ids_zona": 0.87563688056,
+        "e_ids_v_zona": "Medio"
+    },
+    "61": {
+        "id_negocio": "61",
+        "zona_encontrada": "Pantitlan Iii",
+        "ubicacion": " Alberto Braniff , Aviación Civil, Venustiano Carranza,  Ciudad de México, CDMX,  Aviación Civil, Venustiano Carranza",
+        "ids_zona": 0.888469825,
+        "e_ids_v_zona": "Alto"
+    },
+    "62": {
+        "id_negocio": "62",
+        "zona_encontrada": "Del Valle Ii",
+        "ubicacion": " MONTECITO 38,  Nápoles, Benito Juárez",
+        "ids_zona": 0.94188761915,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "63": {
+        "id_negocio": "63",
+        "zona_encontrada": "Jardines En La Montaña",
+        "ubicacion": " PERIFÉRICO SUR ,  Jardines en la Montaña, Tlalpan",
+        "ids_zona": 0.96959138378,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "64": {
+        "id_negocio": "64",
+        "zona_encontrada": "Nonoalco",
+        "ubicacion": " Av Santa Lucia 156,  Alfonso XIII, Alvaro Obregón",
+        "ids_zona": 0.93510809818,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "65": {
+        "id_negocio": "65",
+        "zona_encontrada": "Credito Constructor",
+        "ubicacion": " Sagredo 170,  San José Insurgentes, Benito Juárez",
+        "ids_zona": 0.94468755882,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "66": {
+        "id_negocio": "66",
+        "zona_encontrada": "San Mateo (Barr)",
+        "ubicacion": " Avenida Hidalgo,  Del Carmen, Coyoacán",
+        "ids_zona": 0.9041934,
+        "e_ids_v_zona": "Alto"
+    },
+    "68": {
+        "id_negocio": "68",
+        "zona_encontrada": "Ciudad Universitaria",
+        "ubicacion": " AV. REVOLUCION  ,  La Otra Banda, Coyoacán",
+        "ids_zona": 0.862828,
+        "e_ids_v_zona": "Medio"
+    },
+    "69": {
+        "id_negocio": "69",
+        "zona_encontrada": "Doctores Ii",
+        "ubicacion": " FRONTERA,  Roma Norte, Cuauhtémoc",
+        "ids_zona": 0.9102232169,
+        "e_ids_v_zona": "Alto"
+    },
+    "70": {
+        "id_negocio": "70",
+        "zona_encontrada": "Doctores Ii",
+        "ubicacion": " Dr Carmona y Valle ,  Doctores, Cuauhtémoc",
+        "ids_zona": 0.9102232169,
+        "e_ids_v_zona": "Alto"
+    },
+    "71": {
+        "id_negocio": "71",
+        "zona_encontrada": "Pedregal De Sto Domingo I",
+        "ubicacion": " Cerro Tres Zapotes,  Copilco Universidad, Coyoacán",
+        "ids_zona": 0.83191831034,
+        "e_ids_v_zona": "Bajo"
+    },
+    "72": {
+        "id_negocio": "72",
+        "zona_encontrada": "Narvarte Vi",
+        "ubicacion": " Petén Planta Baja,  Narvarte Oriente, Benito Juárez",
+        "ids_zona": 0.92385694063,
+        "e_ids_v_zona": "Alto"
+    },
+    "73": {
+        "id_negocio": "73",
+        "zona_encontrada": "Roma Norte Ii",
+        "ubicacion": " Florencia  33,  Juárez, Cuauhtémoc",
+        "ids_zona": 0.90262521591,
+        "e_ids_v_zona": "Alto"
+    },
+    "74": {
+        "id_negocio": "74",
+        "zona_encontrada": "Asturias",
+        "ubicacion": " C. Juan E. Hernández y Davalos 119,  Algarín, Cuauhtémoc",
+        "ids_zona": 0.86686842963,
+        "e_ids_v_zona": "Medio"
+    },
+    "75": {
+        "id_negocio": "75",
+        "zona_encontrada": "El Mirador",
+        "ubicacion": " cafetales 1792,  Haciendas de Coyoacán, Coyoacán",
+        "ids_zona": 0.96099681364,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "76": {
+        "id_negocio": "76",
+        "zona_encontrada": "Olivar De Los Padres",
+        "ubicacion": " Desierto de los Leones al 5400,  Alcantarilla, Alvaro Obregón",
+        "ids_zona": 0.89512059048,
+        "e_ids_v_zona": "Alto"
+    },
+    "77": {
+        "id_negocio": "77",
+        "zona_encontrada": "Hipodromo I",
+        "ubicacion": " Nuevo León 163,  Condesa, Cuauhtémoc",
+        "ids_zona": 0.91338491795,
+        "e_ids_v_zona": "Alto"
+    },
+    "78": {
+        "id_negocio": "78",
+        "zona_encontrada": "Corredor Santa Fe",
+        "ubicacion": " Carretera México-Toluca 5100,  El Yaqui, Cuajimalpa de Morelos",
+        "ids_zona": 0.96492692037,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "79": {
+        "id_negocio": "79",
+        "zona_encontrada": "Copilco Universidad I",
+        "ubicacion": " Av. Universidad 2079,  Copilco El Bajo, Coyoacán",
+        "ids_zona": 0.94817853,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "80": {
+        "id_negocio": "80",
+        "zona_encontrada": "Roma Norte Ii",
+        "ubicacion": " CHAPULTEPEC 360,  Roma Norte, Cuauhtémoc",
+        "ids_zona": 0.90262521591,
+        "e_ids_v_zona": "Alto"
+    },
+    "81": {
+        "id_negocio": "81",
+        "zona_encontrada": "Insurgentes Mixcoac",
+        "ubicacion": " GOYA,  Insurgentes Mixcoac, Benito Juárez",
+        "ids_zona": 0.94820462941,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "82": {
+        "id_negocio": "82",
+        "zona_encontrada": "Centro Viii",
+        "ubicacion": " INSURGENTES CENTRO ,  Tabacalera, Cuauhtémoc",
+        "ids_zona": 0.79289154286,
+        "e_ids_v_zona": "Bajo"
+    },
+    "83": {
+        "id_negocio": "83",
+        "zona_encontrada": "Buenavista Ii",
+        "ubicacion": " Local EN Renta Trebol, Santa Maria LA Ribera,  Santa María la Ribera, Cuauhtémoc",
+        "ids_zona": 0.71723907051,
+        "e_ids_v_zona": "Muy Bajo"
+    },
+    "84": {
+        "id_negocio": "84",
+        "zona_encontrada": "Santo Tomas",
+        "ubicacion": " Av. Azcapotzalco 696,  Centro de Azcapotzalco, Azcapotzalco",
+        "ids_zona": 0.8829726,
+        "e_ids_v_zona": "Alto"
+    },
+    "85": {
+        "id_negocio": "85",
+        "zona_encontrada": "Ex Hipodromo De Peralvillo",
+        "ubicacion": " Azahares 14,  Santa Maria Insurgentes, Cuauhtémoc",
+        "ids_zona": 0.84760776148,
+        "e_ids_v_zona": "Medio"
+    },
+    "86": {
+        "id_negocio": "86",
+        "zona_encontrada": "San Lorenzo Huipulco",
+        "ubicacion": " Calzada México-Xochimilco 118,  San Lorenzo Huipulco, Tlalpan",
+        "ids_zona": 0.91755483276,
+        "e_ids_v_zona": "Alto"
+    },
+    "87": {
+        "id_negocio": "87",
+        "zona_encontrada": "Molino Del Rey",
+        "ubicacion": " Prado Norte,  Lomas de Chapultepec, Miguel Hidalgo",
+        "ids_zona": 0.9236389,
+        "e_ids_v_zona": "Alto"
+    },
+    "88": {
+        "id_negocio": "88",
+        "zona_encontrada": "12 De Diciembre",
+        "ubicacion": " AV. TLAHUAC ,  San Andrés Tomatlán, Iztapalapa",
+        "ids_zona": 0.80733348333,
+        "e_ids_v_zona": "Bajo"
+    },
+    "89": {
+        "id_negocio": "89",
+        "zona_encontrada": "Barrio La  Lonja",
+        "ubicacion": " Corregidora 115 A-2, Barrio Caramaguey, Tlalpan,  Barrio de Caramagüey, Tlalpan",
+        "ids_zona": 0.87833866667,
+        "e_ids_v_zona": "Medio"
+    },
+    "90": {
+        "id_negocio": "90",
+        "zona_encontrada": "Credito Constructor",
+        "ubicacion": " Miguel Noreña 33,  San José Insurgentes, Benito Juárez",
+        "ids_zona": 0.94468755882,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "91": {
+        "id_negocio": "91",
+        "zona_encontrada": "Romero De Terreros",
+        "ubicacion": " Avenida Miguel Ángel de Quevedo 353,  Romero de Terreros, Coyoacán",
+        "ids_zona": 0.94371671818,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "92": {
+        "id_negocio": "92",
+        "zona_encontrada": "Napoles",
+        "ubicacion": " Patriotismo,  Nápoles, Benito Juárez",
+        "ids_zona": 0.94857485211,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "93": {
+        "id_negocio": "93",
+        "zona_encontrada": "Doctores Iv",
+        "ubicacion": " Insurgentes -,  Roma, Cuauhtémoc",
+        "ids_zona": 0.85459108621,
+        "e_ids_v_zona": "Medio"
+    },
+    "94": {
+        "id_negocio": "94",
+        "zona_encontrada": "Roma Norte Ii",
+        "ubicacion": " Lóndres,  Juárez, Cuauhtémoc",
+        "ids_zona": 0.90262521591,
+        "e_ids_v_zona": "Alto"
+    },
+    "95": {
+        "id_negocio": "95",
+        "zona_encontrada": "Hipodromo I",
+        "ubicacion": " CAMPECHE  439,  Hipódromo Condesa, Cuauhtémoc",
+        "ids_zona": 0.91338491795,
+        "e_ids_v_zona": "Alto"
+    },
+    "96": {
+        "id_negocio": "96",
+        "zona_encontrada": "Claveria",
+        "ubicacion": " Av. Clavería,  Clavería, Azcapotzalco",
+        "ids_zona": 0.93625147021,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "97": {
+        "id_negocio": "97",
+        "zona_encontrada": "Guerrero Iv",
+        "ubicacion": " Guerrero 145,  Guerrero, Cuauhtémoc",
+        "ids_zona": 0.81479915833,
+        "e_ids_v_zona": "Bajo"
+    },
+    "98": {
+        "id_negocio": "98",
+        "zona_encontrada": "Roma Sur Ii",
+        "ubicacion": " TUXPAN ,  Roma Sur, Cuauhtémoc",
+        "ids_zona": 0.91875174118,
+        "e_ids_v_zona": "Alto"
+    },
+    "99": {
+        "id_negocio": "99",
+        "zona_encontrada": "Anzures",
+        "ubicacion": " Schiller, 152,  Polanco, Miguel Hidalgo",
+        "ids_zona": 0.94061810133,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "100": {
+        "id_negocio": "100",
+        "zona_encontrada": "Insurgentes Mixcoac",
+        "ubicacion": " GOYA,  Insurgentes Mixcoac, Benito Juárez",
+        "ids_zona": 0.94820462941,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "101": {
+        "id_negocio": "101",
+        "zona_encontrada": "Peñon De Los Baños",
+        "ubicacion": " ,  Federal, Venustiano Carranza",
+        "ids_zona": 0.798823,
+        "e_ids_v_zona": "Bajo"
+    },
+    "102": {
+        "id_negocio": "102",
+        "zona_encontrada": "Asturias (Ampl)",
+        "ubicacion": " ISABEL LA CATOLICA,  Cuauhtémoc, Cuauhtémoc",
+        "ids_zona": 0.87563688056,
+        "e_ids_v_zona": "Medio"
+    },
+    "103": {
+        "id_negocio": "103",
+        "zona_encontrada": "Narvarte Vi",
+        "ubicacion": " Petén,  Narvarte Oriente, Benito Juárez",
+        "ids_zona": 0.92385694063,
+        "e_ids_v_zona": "Alto"
+    },
+    "104": {
+        "id_negocio": "104",
+        "zona_encontrada": "5 De Mayo",
+        "ubicacion": " Calle 1 No. ,  Francisco I Madero, Miguel Hidalgo",
+        "ids_zona": 0.848720775,
+        "e_ids_v_zona": "Medio"
+    },
+    "105": {
+        "id_negocio": "105",
+        "zona_encontrada": "Pensador Mexicano Ii",
+        "ubicacion": " Avenida Oceanía 150,  Romero Rubio, Venustiano Carranza",
+        "ids_zona": 0.81602224314,
+        "e_ids_v_zona": "Bajo"
+    },
+    "106": {
+        "id_negocio": "106",
+        "zona_encontrada": "Del Valle V",
+        "ubicacion": " FELIX CUEVAS,  Del Valle Sur, Benito Juárez",
+        "ids_zona": 0.94952989773,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "107": {
+        "id_negocio": "107",
+        "zona_encontrada": "Obrera Ii",
+        "ubicacion": " Doctor Vertiz al 200,  Doctores, Cuauhtémoc",
+        "ids_zona": 0.84234056207,
+        "e_ids_v_zona": "Medio"
+    },
+    "108": {
+        "id_negocio": "108",
+        "zona_encontrada": "Lomas De Chapultepec I",
+        "ubicacion": " Avenida de las Palmas,  Lomas de Chapultepec, Miguel Hidalgo",
+        "ids_zona": 0.9577453127,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "109": {
+        "id_negocio": "109",
+        "zona_encontrada": "Letran Valle",
+        "ubicacion": " Eje 2 Poniente Gabriel Mancera,  Del Valle Sur, Benito Juárez",
+        "ids_zona": 0.93905723636,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "110": {
+        "id_negocio": "110",
+        "zona_encontrada": "Popular Rastro",
+        "ubicacion": " BOLAÑOS,  Felipe Pescador, Cuauhtémoc",
+        "ids_zona": 0.86880642667,
+        "e_ids_v_zona": "Medio"
+    },
+    "111": {
+        "id_negocio": "111",
+        "zona_encontrada": "Anzures",
+        "ubicacion": " Francisco Petrarca ,  Polanco, Miguel Hidalgo",
+        "ids_zona": 0.94061810133,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "112": {
+        "id_negocio": "112",
+        "zona_encontrada": "Avante",
+        "ubicacion": " Miramontes,  Avante, Coyoacán",
+        "ids_zona": 0.93735926216,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "113": {
+        "id_negocio": "113",
+        "zona_encontrada": "Cove",
+        "ubicacion": " Sur,  América, Miguel Hidalgo",
+        "ids_zona": 0.9215940079,
+        "e_ids_v_zona": "Alto"
+    },
+    "114": {
+        "id_negocio": "114",
+        "zona_encontrada": "Chapultepec Morales (Polanco)",
+        "ubicacion": "  Calle Arquímedes 130, Polanco, Polanco IV Secc, Miguel Hidalgo, 11550 Ciudad de México, CDMX,  Polanco IV Sección, Polanco",
+        "ids_zona": 0.94861959189,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "115": {
+        "id_negocio": "115",
+        "zona_encontrada": "Pantitlan Ii",
+        "ubicacion": " Avenida Unión 159,  Agrícola Pantitlan, Iztacalco",
+        "ids_zona": 0.83916024138,
+        "e_ids_v_zona": "Medio"
+    },
+    "116": {
+        "id_negocio": "116",
+        "zona_encontrada": "Roma Norte I",
+        "ubicacion": " Cadetes del ,  San Miguel Chapultepec, Miguel Hidalgo",
+        "ids_zona": 0.89321138214,
+        "e_ids_v_zona": "Alto"
+    },
+    "117": {
+        "id_negocio": "117",
+        "zona_encontrada": "San Francisco Culhuacan (Pblo)",
+        "ubicacion": " EJIDO DE SANTA BARBARA ,  Ex-Ejido de San Francisco CulhuacAn, Coyoacán",
+        "ids_zona": 0.83565417959,
+        "e_ids_v_zona": "Medio"
+    },
+    "118": {
+        "id_negocio": "118",
+        "zona_encontrada": "Tlaxpana",
+        "ubicacion": " marina nacional ,  Anáhuac I Sección, Miguel Hidalgo",
+        "ids_zona": 0.85700819583,
+        "e_ids_v_zona": "Medio"
+    },
+    "119": {
+        "id_negocio": "119",
+        "zona_encontrada": "Anahuac I",
+        "ubicacion": " Marina Nacional,  Anáhuac I Sección, Miguel Hidalgo",
+        "ids_zona": 0.91035148333,
+        "e_ids_v_zona": "Alto"
+    },
+    "120": {
+        "id_negocio": "120",
+        "zona_encontrada": "Del Valle Ii",
+        "ubicacion": " MONTECITO 38 ,  Nápoles, Benito Juárez",
+        "ids_zona": 0.94188761915,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "121": {
+        "id_negocio": "121",
+        "zona_encontrada": "Jardines Del Pedregal",
+        "ubicacion": " Tihuatlán No. 10 ,  San Jerónimo Aculco, Alvaro Obregón",
+        "ids_zona": 0.96595030667,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "122": {
+        "id_negocio": "122",
+        "zona_encontrada": "Molino Del Rey",
+        "ubicacion": " Pedregal 78,  Lomas Virreyes, Miguel Hidalgo",
+        "ids_zona": 0.9236389,
+        "e_ids_v_zona": "Alto"
+    },
+    "123": {
+        "id_negocio": "123",
+        "zona_encontrada": "Palmatitla",
+        "ubicacion": " Priv. Venustiano Carranza lT. 4,  Palmatitla, Gustavo A. Madero",
+        "ids_zona": 0.81058332535,
+        "e_ids_v_zona": "Bajo"
+    },
+    "124": {
+        "id_negocio": "124",
+        "zona_encontrada": "Polanco Reforma (Polanco)",
+        "ubicacion": " Masaryk ,  Polanco, Miguel Hidalgo",
+        "ids_zona": 0.96641763415,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "125": {
+        "id_negocio": "125",
+        "zona_encontrada": "Sta Cruz Atoyac",
+        "ubicacion": "  Av. Universidad ,  Letrán Valle, Benito Juárez",
+        "ids_zona": 0.91516718136,
+        "e_ids_v_zona": "Alto"
+    },
+    "126": {
+        "id_negocio": "126",
+        "zona_encontrada": "Bosques De Chapultepec (Polanco)",
+        "ubicacion": " Alejandro Dumas ,  Polanco IV Sección, Polanco",
+        "ids_zona": 0.96290083929,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "128": {
+        "id_negocio": "128",
+        "zona_encontrada": "Hipodromo I",
+        "ubicacion": " HIPODROMO,  Hipódromo, Cuauhtémoc",
+        "ids_zona": 0.91338491795,
+        "e_ids_v_zona": "Alto"
+    },
+    "129": {
+        "id_negocio": "129",
+        "zona_encontrada": "Centro Iv",
+        "ubicacion": " Revillagigedo 84,  Colonia Centro, Cuauhtémoc",
+        "ids_zona": 0.76922842667,
+        "e_ids_v_zona": "Muy Bajo"
+    },
+    "130": {
+        "id_negocio": "130",
+        "zona_encontrada": "Polanco Reforma (Polanco)",
+        "ubicacion": " Masaryk ,  Polanco, Miguel Hidalgo",
+        "ids_zona": 0.96641763415,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "131": {
+        "id_negocio": "131",
+        "zona_encontrada": "Lindavista I",
+        "ubicacion": " av montevideo 363 colonia lindavista,  Lindavista, Gustavo A. Madero",
+        "ids_zona": 0.93771590104,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "132": {
+        "id_negocio": "132",
+        "zona_encontrada": "Del Valle Iii",
+        "ubicacion": " insurgentes sur 859,  Nápoles, Benito Juárez",
+        "ids_zona": 0.95058764082,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "133": {
+        "id_negocio": "133",
+        "zona_encontrada": "Anahuac Ii",
+        "ubicacion": " Calle Lago Alberto,  Anáhuac I Sección, Miguel Hidalgo",
+        "ids_zona": 0.86802931351,
+        "e_ids_v_zona": "Medio"
+    },
+    "134": {
+        "id_negocio": "134",
+        "zona_encontrada": "San Rafael I",
+        "ubicacion": " Calle Alfonso Herrera,  San Rafael, Cuauhtémoc",
+        "ids_zona": 0.91201739444,
+        "e_ids_v_zona": "Alto"
+    },
+    "135": {
+        "id_negocio": "135",
+        "zona_encontrada": "Bosques De Chapultepec (Polanco)",
+        "ubicacion": " Castillo de Chapultepec,  Lomas de Chapultepec, Miguel Hidalgo",
+        "ids_zona": 0.96290083929,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "137": {
+        "id_negocio": "137",
+        "zona_encontrada": "Bosques De Chapultepec (Polanco)",
+        "ubicacion": " Castillo de Chapultepec,  Lomas de Chapultepec, Miguel Hidalgo",
+        "ids_zona": 0.96290083929,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "138": {
+        "id_negocio": "138",
+        "zona_encontrada": "Anahuac Ii",
+        "ubicacion": " Calle Lago Alberto ,  Anáhuac I Sección, Miguel Hidalgo",
+        "ids_zona": 0.86802931351,
+        "e_ids_v_zona": "Medio"
+    },
+    "139": {
+        "id_negocio": "139",
+        "zona_encontrada": "Campestre Churubusco",
+        "ubicacion": " Miguel Ángel de Quevedo,  Parque San Andrés, Coyoacán",
+        "ids_zona": 0.94014015248,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "140": {
+        "id_negocio": "140",
+        "zona_encontrada": "Campestre Churubusco",
+        "ubicacion": " Miguel Ángel de Quevedo,  Parque San Andrés, Coyoacán",
+        "ids_zona": 0.94014015248,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "141": {
+        "id_negocio": "141",
+        "zona_encontrada": "Anzures",
+        "ubicacion": " Kelvin S/N,  Anzures, Miguel Hidalgo",
+        "ids_zona": 0.94061810133,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "142": {
+        "id_negocio": "142",
+        "zona_encontrada": "Buenavista Ii",
+        "ubicacion": " Calle Alfonso Herrera ,  San Rafael, Cuauhtémoc",
+        "ids_zona": 0.71723907051,
+        "e_ids_v_zona": "Muy Bajo"
+    },
+    "143": {
+        "id_negocio": "143",
+        "zona_encontrada": "San Rafael I",
+        "ubicacion": "  Calle Alfonso Herrera,  San Rafael, Cuauhtémoc",
+        "ids_zona": 0.91201739444,
+        "e_ids_v_zona": "Alto"
+    },
+    "144": {
+        "id_negocio": "144",
+        "zona_encontrada": "Molino Del Rey",
+        "ubicacion": " Prado Norte,  Lomas de Chapultepec, Miguel Hidalgo",
+        "ids_zona": 0.9236389,
+        "e_ids_v_zona": "Alto"
+    },
+    "145": {
+        "id_negocio": "145",
+        "zona_encontrada": "La Conchita Ii",
+        "ubicacion": " Av Tlahuac 129,  Santiago Sur, Tláhuac",
+        "ids_zona": 0.78339851381,
+        "e_ids_v_zona": "Bajo"
+    },
+    "146": {
+        "id_negocio": "146",
+        "zona_encontrada": "Corredor Santa Fe",
+        "ubicacion": " Carretera Mexico Toluca  al 5000,  Santa Fe Cuajimalpa, Cuajimalpa de Morelos",
+        "ids_zona": 0.96492692037,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "147": {
+        "id_negocio": "147",
+        "zona_encontrada": "Independencia Batan Sur (U Hab)",
+        "ubicacion": " Av. San Jerónimo,  San Jerónimo Lídice, La Magdalena Contreras",
+        "ids_zona": 0.93121793513,
+        "e_ids_v_zona": "Alto"
+    },
+    "148": {
+        "id_negocio": "148",
+        "zona_encontrada": "Anahuac Ii",
+        "ubicacion": " Calle Lago Alberto,  Anáhuac I Sección, Miguel Hidalgo",
+        "ids_zona": 0.86802931351,
+        "e_ids_v_zona": "Medio"
+    },
+    "149": {
+        "id_negocio": "149",
+        "zona_encontrada": "Campestre Churubusco",
+        "ubicacion": " Miguel Ángel de Quevedo,  Parque San Andrés, Coyoacán",
+        "ids_zona": 0.94014015248,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "150": {
+        "id_negocio": "150",
+        "zona_encontrada": "Florida",
+        "ubicacion": " Renta Local Dentro DE Centro Comercial Guadalupe INN,  Guadalupe Inn, Alvaro Obregón",
+        "ids_zona": 0.95291456429,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "151": {
+        "id_negocio": "151",
+        "zona_encontrada": "Anahuac Ii",
+        "ubicacion": " Calle Lago Alberto ,  Anáhuac I Sección, Miguel Hidalgo",
+        "ids_zona": 0.86802931351,
+        "e_ids_v_zona": "Medio"
+    },
+    "152": {
+        "id_negocio": "152",
+        "zona_encontrada": "La Conchita Ii",
+        "ubicacion": " Av Tlahuac 129,  Santiago Sur, Tláhuac",
+        "ids_zona": 0.78339851381,
+        "e_ids_v_zona": "Bajo"
+    },
+    "153": {
+        "id_negocio": "153",
+        "zona_encontrada": "Roma Sur I",
+        "ubicacion": " Manzanillo,  Roma Norte, Cuauhtémoc",
+        "ids_zona": 0.8965680375,
+        "e_ids_v_zona": "Alto"
+    },
+    "154": {
+        "id_negocio": "154",
+        "zona_encontrada": "Tetelpan",
+        "ubicacion": " Calzada Desierto de los Leones 5211,  Tetelpan, Alvaro Obregón",
+        "ids_zona": 0.84381369524,
+        "e_ids_v_zona": "Medio"
+    },
+    "155": {
+        "id_negocio": "155",
+        "zona_encontrada": "Cuauhtemoc",
+        "ubicacion": " Ejercito Nacional ,  Verónica Anzures, Miguel Hidalgo",
+        "ids_zona": 0.85116574483,
+        "e_ids_v_zona": "Medio"
+    },
+    "156": {
+        "id_negocio": "156",
+        "zona_encontrada": "Anahuac I",
+        "ubicacion": " Lago Chapala 67, Local Accc , Colonia  Anahuac, cp. 11320, Alcaldía Miguel Hidalgo,  Anáhuac I Sección, Miguel Hidalgo",
+        "ids_zona": 0.91035148333,
+        "e_ids_v_zona": "Alto"
+    },
+    "157": {
+        "id_negocio": "157",
+        "zona_encontrada": "Roma Sur Ii",
+        "ubicacion": " José Marti,  Escandón II Sección, Miguel Hidalgo",
+        "ids_zona": 0.91875174118,
+        "e_ids_v_zona": "Alto"
+    },
+    "158": {
+        "id_negocio": "158",
+        "zona_encontrada": "Alamos I",
+        "ubicacion": " Soria 70,  Álamos, Benito Juárez",
+        "ids_zona": 0.926601266,
+        "e_ids_v_zona": "Alto"
+    },
+    "159": {
+        "id_negocio": "159",
+        "zona_encontrada": "Lomas De Chapultepec I",
+        "ubicacion": " Av. Prado Norte,  Lomas de Chapultepec, Miguel Hidalgo",
+        "ids_zona": 0.9577453127,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "160": {
+        "id_negocio": "160",
+        "zona_encontrada": "Sta Cruz Atoyac",
+        "ubicacion": " AV.UNIVERSIDAD ,  Del Valle Centro, Benito Juárez",
+        "ids_zona": 0.91516718136,
+        "e_ids_v_zona": "Alto"
+    },
+    "161": {
+        "id_negocio": "161",
+        "zona_encontrada": "Molino Del Rey",
+        "ubicacion": " Prado Norte al 200,  Lomas de Chapultepec, Miguel Hidalgo",
+        "ids_zona": 0.9236389,
+        "e_ids_v_zona": "Alto"
+    },
+    "162": {
+        "id_negocio": "162",
+        "zona_encontrada": "San Mateo (Barr)",
+        "ubicacion": " Xicotencatl,  Del Carmen, Coyoacán",
+        "ids_zona": 0.9041934,
+        "e_ids_v_zona": "Alto"
+    },
+    "163": {
+        "id_negocio": "163",
+        "zona_encontrada": "Juarez",
+        "ubicacion": " Av. Insurgentes Sur,  Juárez, Cuauhtémoc",
+        "ids_zona": 0.88111467841,
+        "e_ids_v_zona": "Medio"
+    },
+    "164": {
+        "id_negocio": "164",
+        "zona_encontrada": "Tlalpan Centro",
+        "ubicacion": " Insurgentes Sur,  Santa Úrsula Xitla, Tlalpan",
+        "ids_zona": 0.91348868308,
+        "e_ids_v_zona": "Alto"
+    },
+    "165": {
+        "id_negocio": "165",
+        "zona_encontrada": "Agricola Oriental Viii",
+        "ubicacion": " Oriente 253 108,  Agrícola Oriental, Iztacalco",
+        "ids_zona": 0.87212044915,
+        "e_ids_v_zona": "Medio"
+    },
+    "166": {
+        "id_negocio": "166",
+        "zona_encontrada": "Anahuac Ii",
+        "ubicacion": " LAGUNA DE TERMINOS 196 A,  Granada, Miguel Hidalgo",
+        "ids_zona": 0.86802931351,
+        "e_ids_v_zona": "Medio"
+    },
+    "167": {
+        "id_negocio": "167",
+        "zona_encontrada": "Polanco Reforma (Polanco)",
+        "ubicacion": " Masaryk 100,  Polanco, Miguel Hidalgo",
+        "ids_zona": 0.96641763415,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "168": {
+        "id_negocio": "168",
+        "zona_encontrada": "Insurgentes Mixcoac",
+        "ubicacion": " Calle Campana Esquina Av. Patriotismo,  Insurgentes Mixcoac,  Insurgentes Mixcoac, Benito Juárez",
+        "ids_zona": 0.94820462941,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "169": {
+        "id_negocio": "169",
+        "zona_encontrada": "Corredor Santa Fe",
+        "ubicacion": " ,  Santa Fe Cuajimalpa, Cuajimalpa de Morelos",
+        "ids_zona": 0.96492692037,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "170": {
+        "id_negocio": "170",
+        "zona_encontrada": "Piedad Narvarte",
+        "ubicacion": " MONTERREY 381,  Roma Sur, Cuauhtémoc",
+        "ids_zona": 0.92440624667,
+        "e_ids_v_zona": "Alto"
+    },
+    "171": {
+        "id_negocio": "171",
+        "zona_encontrada": "Paulino Navarro",
+        "ubicacion": " FERNANDO DE ALVA,  Obrera, Cuauhtémoc",
+        "ids_zona": 0.8849424907,
+        "e_ids_v_zona": "Alto"
+    },
+    "172": {
+        "id_negocio": "172",
+        "zona_encontrada": "Del Carmen",
+        "ubicacion": " A. D. del N.,  Del Carmen, Coyoacán",
+        "ids_zona": 0.9403674475,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "173": {
+        "id_negocio": "173",
+        "zona_encontrada": "Belisario Dominguez",
+        "ubicacion": " LA JOYITA, GUSTAVO A. MADERO,  La Joyita, Gustavo A. Madero",
+        "ids_zona": 0.822625825,
+        "e_ids_v_zona": "Bajo"
+    },
+    "174": {
+        "id_negocio": "174",
+        "zona_encontrada": "Aldana",
+        "ubicacion": " Calle 16 514,  Pro-Hogar, Azcapotzalco",
+        "ids_zona": 0.84508557273,
+        "e_ids_v_zona": "Medio"
+    },
+    "175": {
+        "id_negocio": "175",
+        "zona_encontrada": "Avante",
+        "ubicacion": " Miramontes,  Avante, Coyoacán",
+        "ids_zona": 0.93735926216,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "176": {
+        "id_negocio": "176",
+        "zona_encontrada": "Constitucion De La Republica",
+        "ubicacion": " Luis de la Rosa 43,  Constitución de La República, Gustavo A. Madero",
+        "ids_zona": 0.83739127717,
+        "e_ids_v_zona": "Medio"
+    },
+    "177": {
+        "id_negocio": "177",
+        "zona_encontrada": "Anzures",
+        "ubicacion": " Sudermann ,  Polanco, Miguel Hidalgo",
+        "ids_zona": 0.94061810133,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "178": {
+        "id_negocio": "178",
+        "zona_encontrada": "Transito",
+        "ubicacion": " LORENZO BOTURINI,  Obrera, Cuauhtémoc",
+        "ids_zona": 0.80217720877,
+        "e_ids_v_zona": "Bajo"
+    },
+    "180": {
+        "id_negocio": "180",
+        "zona_encontrada": "Centro Vii",
+        "ubicacion": " REPUBLICA DE EL SALVADOR 35,  Centro , Cuauhtémoc",
+        "ids_zona": 0.68683789375,
+        "e_ids_v_zona": "Muy Bajo"
+    },
+    "181": {
+        "id_negocio": "181",
+        "zona_encontrada": "Lomas Del Chamizal",
+        "ubicacion": " Local Comercial en Prolongacion Bosques de Reforma,  Bosques de las Lomas, Cuajimalpa de Morelos",
+        "ids_zona": 0.87810212973,
+        "e_ids_v_zona": "Medio"
+    },
+    "182": {
+        "id_negocio": "182",
+        "zona_encontrada": "Algarin",
+        "ubicacion": " EJE CENTRAL,  Obrera, Cuauhtémoc",
+        "ids_zona": 0.8722471931,
+        "e_ids_v_zona": "Medio"
+    },
+    "183": {
+        "id_negocio": "183",
+        "zona_encontrada": "Doctores I",
+        "ubicacion": " marsella 17,  Juárez, Cuauhtémoc",
+        "ids_zona": 0.85715168529,
+        "e_ids_v_zona": "Medio"
+    },
+    "184": {
+        "id_negocio": "184",
+        "zona_encontrada": "Pantitlan V",
+        "ubicacion": " Calle 4, 10,  Agrícola Pantitlan, Iztacalco",
+        "ids_zona": 0.86865409675,
+        "e_ids_v_zona": "Medio"
+    },
+    "185": {
+        "id_negocio": "185",
+        "zona_encontrada": "Roma Sur Ii",
+        "ubicacion": " av baja california,  Condesa, Cuauhtémoc",
+        "ids_zona": 0.91875174118,
+        "e_ids_v_zona": "Alto"
+    },
+    "186": {
+        "id_negocio": "186",
+        "zona_encontrada": "Gertrudis Sanchez 2a Seccion",
+        "ubicacion": " Av. Henry Ford ,  Bondojito, Gustavo A. Madero",
+        "ids_zona": 0.84307801045,
+        "e_ids_v_zona": "Medio"
+    },
+    "187": {
+        "id_negocio": "187",
+        "zona_encontrada": "Algarin",
+        "ubicacion": " Eje Central No. 00,  Obrera, Cuauhtémoc",
+        "ids_zona": 0.8722471931,
+        "e_ids_v_zona": "Medio"
+    },
+    "188": {
+        "id_negocio": "188",
+        "zona_encontrada": "Santa Maria La Ribera Ii",
+        "ubicacion": " Nogal,  Santa María la Ribera, Cuauhtémoc",
+        "ids_zona": 0.91110625106,
+        "e_ids_v_zona": "Alto"
+    },
+    "189": {
+        "id_negocio": "189",
+        "zona_encontrada": "Escandon Ii",
+        "ubicacion": " Dr. Joublanc ,  Tacubaya, Miguel Hidalgo",
+        "ids_zona": 0.89463066604,
+        "e_ids_v_zona": "Alto"
+    },
+    "190": {
+        "id_negocio": "190",
+        "zona_encontrada": "Independencia",
+        "ubicacion": " Pitagoras,  Del Valle Centro, Benito Juárez",
+        "ids_zona": 0.9164131,
+        "e_ids_v_zona": "Alto"
+    },
+    "191": {
+        "id_negocio": "191",
+        "zona_encontrada": "Parque San Andres",
+        "ubicacion": " Miguel Ángel de Quevedo ,  Parque San Andrés, Coyoacán",
+        "ids_zona": 0.93976985676,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "192": {
+        "id_negocio": "192",
+        "zona_encontrada": "Centro I",
+        "ubicacion": " Moctezuma 2,  Guerrero, Cuauhtémoc",
+        "ids_zona": 0.73259555,
+        "e_ids_v_zona": "Muy Bajo"
+    },
+    "193": {
+        "id_negocio": "193",
+        "zona_encontrada": "Centro Vi",
+        "ubicacion": " CENTRO HISTORICO,  Centro Histórico de la Cdad. de México, Cuauhtémoc",
+        "ids_zona": 0.72550054545,
+        "e_ids_v_zona": "Muy Bajo"
+    },
+    "194": {
+        "id_negocio": "194",
+        "zona_encontrada": "Modelo Pensil",
+        "ubicacion": " Cda.lago Chapultepec, 161,  5 de Mayo, Miguel Hidalgo",
+        "ids_zona": 0.8690150625,
+        "e_ids_v_zona": "Medio"
+    },
+    "195": {
+        "id_negocio": "195",
+        "zona_encontrada": "Peñon De Los Baños",
+        "ubicacion": " Av Emilio Carranza,  Moctezuma, Venustiano Carranza",
+        "ids_zona": 0.798823,
+        "e_ids_v_zona": "Bajo"
+    },
+    "196": {
+        "id_negocio": "196",
+        "zona_encontrada": "Narvarte Iii",
+        "ubicacion": " Amores ,  Del Valle Norte, Benito Juárez",
+        "ids_zona": 0.91601372903,
+        "e_ids_v_zona": "Alto"
+    },
+    "197": {
+        "id_negocio": "197",
+        "zona_encontrada": "Miravalle",
+        "ubicacion": " Canarias 928,  Portales Norte, Benito Juárez",
+        "ids_zona": 0.7213876871,
+        "e_ids_v_zona": "Muy Bajo"
+    },
+    "198": {
+        "id_negocio": "198",
+        "zona_encontrada": "Prados De Coyoacan 1",
+        "ubicacion": " Miramontes,  Coapa, Coyoacán",
+        "ids_zona": 0.95498718696,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "199": {
+        "id_negocio": "199",
+        "zona_encontrada": "Pensil San Juanico",
+        "ubicacion": " Calzada Legaria,  Pensil Norte, Miguel Hidalgo",
+        "ids_zona": 0.89348873774,
+        "e_ids_v_zona": "Alto"
+    },
+    "200": {
+        "id_negocio": "200",
+        "zona_encontrada": "Escandon I",
+        "ubicacion": " Carlos B Zetina 43,  Escandón I Sección, Miguel Hidalgo",
+        "ids_zona": 0.91449634324,
+        "e_ids_v_zona": "Alto"
+    },
+    "201": {
+        "id_negocio": "201",
+        "zona_encontrada": "Anahuac Ii",
+        "ubicacion": " LAGUNA DE TERMINOS 196 INT C,  Granada, Miguel Hidalgo",
+        "ids_zona": 0.86802931351,
+        "e_ids_v_zona": "Medio"
+    },
+    "202": {
+        "id_negocio": "202",
+        "zona_encontrada": "Anahuac Ii",
+        "ubicacion": " Lago Alberto,  Anáhuac I Sección, Miguel Hidalgo",
+        "ids_zona": 0.86802931351,
+        "e_ids_v_zona": "Medio"
+    },
+    "203": {
+        "id_negocio": "203",
+        "zona_encontrada": "Paulino Navarro",
+        "ubicacion": " Manuel Payno,  Doctores, Cuauhtémoc",
+        "ids_zona": 0.8849424907,
+        "e_ids_v_zona": "Alto"
+    },
+    "204": {
+        "id_negocio": "204",
+        "zona_encontrada": "Niños Heroes De Chapultepec",
+        "ubicacion": " Isabel la Católica ,  Niños Héroes, Benito Juárez",
+        "ids_zona": 0.89946672653,
+        "e_ids_v_zona": "Alto"
+    },
+    "205": {
+        "id_negocio": "205",
+        "zona_encontrada": "Nonoalco-Tlatelolco (U Hab) I",
+        "ubicacion": " Ricardo Flores Magón,  Santa María la Ribera, Cuauhtémoc",
+        "ids_zona": 0.91889987187,
+        "e_ids_v_zona": "Alto"
+    },
+    "206": {
+        "id_negocio": "206",
+        "zona_encontrada": "Hipodromo Ii",
+        "ubicacion": " Benjamin Hill  146,  Hipódromo Condesa, Cuauhtémoc",
+        "ids_zona": 0.91871100678,
+        "e_ids_v_zona": "Alto"
+    },
+    "207": {
+        "id_negocio": "207",
+        "zona_encontrada": "San Juan De Aragon 1a Seccion (U Hab) Ii",
+        "ubicacion": " AV  #,  San Juan de Aragón I Secc, Gustavo A. Madero",
+        "ids_zona": 0.8786709459,
+        "e_ids_v_zona": "Medio"
+    },
+    "208": {
+        "id_negocio": "208",
+        "zona_encontrada": "Heroes De Padierna I",
+        "ubicacion": " AV, CHICOASEN,  Héroes de Padierna, Tlalpan",
+        "ids_zona": 0.86384644079,
+        "e_ids_v_zona": "Medio"
+    },
+    "209": {
+        "id_negocio": "209",
+        "zona_encontrada": "El Rosedal I",
+        "ubicacion": " MIGUEL ANGEL DE QUEVEDO,  El Rosedal, Coyoacán",
+        "ids_zona": 0.93617589412,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "210": {
+        "id_negocio": "210",
+        "zona_encontrada": "Doctores Iv",
+        "ubicacion": " Roma norte,  Roma Norte, Cuauhtémoc",
+        "ids_zona": 0.85459108621,
+        "e_ids_v_zona": "Medio"
+    },
+    "211": {
+        "id_negocio": "211",
+        "zona_encontrada": "Centro Vii",
+        "ubicacion": " Mesones,  Centro , Cuauhtémoc",
+        "ids_zona": 0.68683789375,
+        "e_ids_v_zona": "Muy Bajo"
+    },
+    "212": {
+        "id_negocio": "212",
+        "zona_encontrada": "Roma Sur I",
+        "ubicacion": " Manzanillo,  Roma Norte, Cuauhtémoc",
+        "ids_zona": 0.8965680375,
+        "e_ids_v_zona": "Alto"
+    },
+    "213": {
+        "id_negocio": "213",
+        "zona_encontrada": "Centro Viii",
+        "ubicacion": " ATENAS 40,  Juárez, Cuauhtémoc",
+        "ids_zona": 0.79289154286,
+        "e_ids_v_zona": "Bajo"
+    },
+    "214": {
+        "id_negocio": "214",
+        "zona_encontrada": "Pedregal De Sto Domingo I",
+        "ubicacion": " CERRO TLAPACOYAN #11, Copilco Universidad, Coyoacán,  Copilco Universidad, Coyoacán",
+        "ids_zona": 0.83191831034,
+        "e_ids_v_zona": "Bajo"
+    },
+    "215": {
+        "id_negocio": "215",
+        "zona_encontrada": "12 De Diciembre",
+        "ubicacion": " Av. Tlahuac 3843,  San Andrés Tomatlán, Iztapalapa",
+        "ids_zona": 0.80733348333,
+        "e_ids_v_zona": "Bajo"
+    },
+    "216": {
+        "id_negocio": "216",
+        "zona_encontrada": "Cuauhtemoc",
+        "ubicacion": " Circuito Interior Melchor Ocampo,  Cuauhtémoc, Cuauhtémoc",
+        "ids_zona": 0.85116574483,
+        "e_ids_v_zona": "Medio"
+    },
+    "217": {
+        "id_negocio": "217",
+        "zona_encontrada": "Lomas De Santa Fe Ii",
+        "ubicacion": " Guillermo Gonzalez Camarena,  Santa Fe Cuajimalpa, Cuajimalpa de Morelos",
+        "ids_zona": 0.92258512727,
+        "e_ids_v_zona": "Alto"
+    },
+    "218": {
+        "id_negocio": "218",
+        "zona_encontrada": "Lomas Virreyes (Lomas De Chapultepec)",
+        "ubicacion": " Monte Athos,  Lomas de Chapultepec, Miguel Hidalgo",
+        "ids_zona": 0.97600646349,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "219": {
+        "id_negocio": "219",
+        "zona_encontrada": "Doctores Iv",
+        "ubicacion": " ROMA NORTE,  Roma Norte, Cuauhtémoc",
+        "ids_zona": 0.85459108621,
+        "e_ids_v_zona": "Medio"
+    },
+    "221": {
+        "id_negocio": "221",
+        "zona_encontrada": "Fuentes De Azcapotzalco-Parques De Azcapotzalco (U Hab)",
+        "ubicacion": " SANTA APOLONIA,  Santa Apolonia, Azcapotzalco",
+        "ids_zona": 0.94966438571,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "222": {
+        "id_negocio": "222",
+        "zona_encontrada": "Corredor Santa Fe",
+        "ubicacion": " Local_ Torre Blu_salvador Agraz 73,  Las Tinajas, Cuajimalpa de Morelos",
+        "ids_zona": 0.96492692037,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "223": {
+        "id_negocio": "223",
+        "zona_encontrada": "Transito",
+        "ubicacion": " Jose t cuellar , colonia obrera,  Obrera, Cuauhtémoc",
+        "ids_zona": 0.80217720877,
+        "e_ids_v_zona": "Bajo"
+    },
+    "224": {
+        "id_negocio": "224",
+        "zona_encontrada": "San Andres Tetepilco (Pblo)",
+        "ubicacion": " Local Comercial en Renta. Plutarco Elias Calles, San Andres Tetepilco, Iztapalapa,  San Andrés Tetepilco, Iztapalapa",
+        "ids_zona": 0.87823934375,
+        "e_ids_v_zona": "Medio"
+    },
+    "225": {
+        "id_negocio": "225",
+        "zona_encontrada": "San Jeronimo Aculco - Lidice (Pblo)",
+        "ubicacion": " Av. San Jerónimo 1423,  San Jerónimo Lídice, La Magdalena Contreras",
+        "ids_zona": 0.91649143399,
+        "e_ids_v_zona": "Alto"
+    },
+    "226": {
+        "id_negocio": "226",
+        "zona_encontrada": "Romero De Terreros (Cond)",
+        "ubicacion": " Calle del Carmen,  San Ángel, Alvaro Obregón",
+        "ids_zona": 0.94718950667,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "227": {
+        "id_negocio": "227",
+        "zona_encontrada": "Anahuac I",
+        "ubicacion": " Marina Nacional ,  Anáhuac I Sección, Miguel Hidalgo",
+        "ids_zona": 0.91035148333,
+        "e_ids_v_zona": "Alto"
+    },
+    "228": {
+        "id_negocio": "228",
+        "zona_encontrada": "Bosques De Chapultepec (Polanco)",
+        "ubicacion": " Masaryk,  Polanco, Miguel Hidalgo",
+        "ids_zona": 0.96290083929,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "229": {
+        "id_negocio": "229",
+        "zona_encontrada": "Hipodromo I",
+        "ubicacion": " Tamaulipas,  Condesa, Cuauhtémoc",
+        "ids_zona": 0.91338491795,
+        "e_ids_v_zona": "Alto"
+    },
+    "230": {
+        "id_negocio": "230",
+        "zona_encontrada": "Apatlaco",
+        "ubicacion": " MILITAR MARTE,  Militar Marte, Iztacalco",
+        "ids_zona": 0.82592935102,
+        "e_ids_v_zona": "Bajo"
+    },
+    "231": {
+        "id_negocio": "231",
+        "zona_encontrada": "Juarez",
+        "ubicacion": " Avenida Insurgentes,  Juárez, Cuauhtémoc",
+        "ids_zona": 0.88111467841,
+        "e_ids_v_zona": "Medio"
+    },
+    "232": {
+        "id_negocio": "232",
+        "zona_encontrada": "Ctm X Culhuacan (U Hab)",
+        "ubicacion": " Av. Cafetales,  Coyoacán, Ciudad de México",
+        "ids_zona": 0.89925731915,
+        "e_ids_v_zona": "Alto"
+    },
+    "233": {
+        "id_negocio": "233",
+        "zona_encontrada": "Agricola Oriental Iii",
+        "ubicacion": " CERRADA DE RIO FRIO 1,  Agrícola Oriental, Iztacalco",
+        "ids_zona": 0.85069866761,
+        "e_ids_v_zona": "Medio"
+    },
+    "234": {
+        "id_negocio": "234",
+        "zona_encontrada": "Ciudad Universitaria",
+        "ubicacion": " avenida revolución 2015,  La Otra Banda, Coyoacán",
+        "ids_zona": 0.862828,
+        "e_ids_v_zona": "Medio"
+    },
+    "235": {
+        "id_negocio": "235",
+        "zona_encontrada": "Niños Heroes De Chapultepec",
+        "ubicacion": " Concepción Bésitegui,  Narvarte Oriente, Benito Juárez",
+        "ids_zona": 0.89946672653,
+        "e_ids_v_zona": "Alto"
+    },
+    "236": {
+        "id_negocio": "236",
+        "zona_encontrada": "Lomas De Santa Fe Ii",
+        "ubicacion": " Av. Santa Fe,  Santa Fe Cuajimalpa, Cuajimalpa de Morelos",
+        "ids_zona": 0.92258512727,
+        "e_ids_v_zona": "Alto"
+    },
+    "237": {
+        "id_negocio": "237",
+        "zona_encontrada": "San Jeronimo Aculco - Lidice (Pblo)",
+        "ubicacion": " Héroes de Padierna 138,  San Jerónimo Lídice, La Magdalena Contreras",
+        "ids_zona": 0.91649143399,
+        "e_ids_v_zona": "Alto"
+    },
+    "238": {
+        "id_negocio": "238",
+        "zona_encontrada": "Centro Vii",
+        "ubicacion": " República de Uruguay 21,  Centro , Cuauhtémoc",
+        "ids_zona": 0.68683789375,
+        "e_ids_v_zona": "Muy Bajo"
+    },
+    "239": {
+        "id_negocio": "239",
+        "zona_encontrada": "Los Reyes (Pblo)",
+        "ubicacion": " AV. ARNESES,  San Antonio CulhuacAn, Iztapalapa",
+        "ids_zona": 0.818757392,
+        "e_ids_v_zona": "Bajo"
+    },
+    "240": {
+        "id_negocio": "240",
+        "zona_encontrada": "Narvarte Ii",
+        "ubicacion": " Cuauhtémoc ,  Narvarte Poniente, Benito Juárez",
+        "ids_zona": 0.93794772222,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "241": {
+        "id_negocio": "241",
+        "zona_encontrada": "Chapultepec Polanco (Polanco)",
+        "ubicacion": " Moliere,  Polanco, Miguel Hidalgo",
+        "ids_zona": 0.95744162105,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "242": {
+        "id_negocio": "242",
+        "zona_encontrada": "Portales Oriente",
+        "ubicacion": " Presidentes,  Portales Norte, Benito Juárez",
+        "ids_zona": 0.91559534333,
+        "e_ids_v_zona": "Alto"
+    },
+    "243": {
+        "id_negocio": "243",
+        "zona_encontrada": "Anahuac Ii",
+        "ubicacion": " Calle Lago Alberto CDMX,  Anáhuac I Sección, Miguel Hidalgo",
+        "ids_zona": 0.86802931351,
+        "e_ids_v_zona": "Medio"
+    },
+    "244": {
+        "id_negocio": "244",
+        "zona_encontrada": "Vertiz Narvarte",
+        "ubicacion": " MONTE ALBAN,  Narvarte Oriente, Benito Juárez",
+        "ids_zona": 0.93540713333,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "245": {
+        "id_negocio": "245",
+        "zona_encontrada": "Roma Sur I",
+        "ubicacion": " Coahuila,  Roma Norte, Cuauhtémoc",
+        "ids_zona": 0.8965680375,
+        "e_ids_v_zona": "Alto"
+    },
+    "246": {
+        "id_negocio": "246",
+        "zona_encontrada": "Corredor Santa Fe",
+        "ubicacion": " Carretera Mexico Toluca ,  El Yaqui, Cuajimalpa de Morelos",
+        "ids_zona": 0.96492692037,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "247": {
+        "id_negocio": "247",
+        "zona_encontrada": "Alvaro Obregon",
+        "ubicacion": " LA VIGA,  Militar Marte, Iztacalco",
+        "ids_zona": 0.85941833922,
+        "e_ids_v_zona": "Medio"
+    },
+    "248": {
+        "id_negocio": "248",
+        "zona_encontrada": "Tlalpan Centro",
+        "ubicacion": " Insrugentes sur al 4200,  Santa Úrsula Xitla, Tlalpan",
+        "ids_zona": 0.91348868308,
+        "e_ids_v_zona": "Alto"
+    },
+    "249": {
+        "id_negocio": "249",
+        "zona_encontrada": "Santa Catarina (Barr)",
+        "ubicacion": " Av. Universidad S/N,  Coyoacán, Ciudad de México",
+        "ids_zona": 0.94847620278,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "250": {
+        "id_negocio": "250",
+        "zona_encontrada": "San Miguel (Barr)",
+        "ubicacion": "  AV ERMITA IZTAPALAPA #,  Ampliación San Miguel, Iztapalapa",
+        "ids_zona": 0.8279924125,
+        "e_ids_v_zona": "Bajo"
+    },
+    "251": {
+        "id_negocio": "251",
+        "zona_encontrada": "Guadalupe Tepeyac",
+        "ubicacion": " Calzada de Guadalupe, Vallejo,  Xochimilco, Ciudad de México",
+        "ids_zona": 0.90702266571,
+        "e_ids_v_zona": "Alto"
+    },
+    "252": {
+        "id_negocio": "252",
+        "zona_encontrada": "Roma Sur Ii",
+        "ubicacion": " Av. baja california,  Condesa, Cuauhtémoc",
+        "ids_zona": 0.91875174118,
+        "e_ids_v_zona": "Alto"
+    },
+    "254": {
+        "id_negocio": "254",
+        "zona_encontrada": "Cuauhtemoc",
+        "ubicacion": " Leibnitz,  Anzures, Miguel Hidalgo",
+        "ids_zona": 0.85116574483,
+        "e_ids_v_zona": "Medio"
+    },
+    "255": {
+        "id_negocio": "255",
+        "zona_encontrada": "Irrigacion",
+        "ubicacion": " Periodista ,  Periodista, Miguel Hidalgo",
+        "ids_zona": 0.95522257727,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "256": {
+        "id_negocio": "256",
+        "zona_encontrada": "Prado Churubusco",
+        "ubicacion": " auriaga 8,  Prado Churubusco, Coyoacán",
+        "ids_zona": 0.94113376323,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "257": {
+        "id_negocio": "257",
+        "zona_encontrada": "Asturias",
+        "ubicacion": " 5 de Febrero 462 Loc. 10  Algarín, Cuauhtémoc, 06880 Ciudad de México.,  Algarín, Cuauhtémoc",
+        "ids_zona": 0.86686842963,
+        "e_ids_v_zona": "Medio"
+    },
+    "259": {
+        "id_negocio": "259",
+        "zona_encontrada": "Noche Buena",
+        "ubicacion": " AV REVOLUCION,  Santa María Nonoalco, Benito Juárez",
+        "ids_zona": 0.93688090625,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "260": {
+        "id_negocio": "260",
+        "zona_encontrada": "Moctezuma 2a Seccion I",
+        "ubicacion": " Av. del Peñón,  Moctezuma, Venustiano Carranza",
+        "ids_zona": 0.84786459091,
+        "e_ids_v_zona": "Medio"
+    },
+    "261": {
+        "id_negocio": "261",
+        "zona_encontrada": "Cuauhtemoc",
+        "ubicacion": " Leibnitz,  Anzures, Miguel Hidalgo",
+        "ids_zona": 0.85116574483,
+        "e_ids_v_zona": "Medio"
+    },
+    "262": {
+        "id_negocio": "262",
+        "zona_encontrada": "Centro Vi",
+        "ubicacion": " 5 de Febrero,  Centro , Cuauhtémoc",
+        "ids_zona": 0.72550054545,
+        "e_ids_v_zona": "Muy Bajo"
+    },
+    "263": {
+        "id_negocio": "263",
+        "zona_encontrada": "Colinas Del Sur",
+        "ubicacion": " Santa Lucia 881,  Colina del Sur, Alvaro Obregón",
+        "ids_zona": 0.94018695361,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "264": {
+        "id_negocio": "264",
+        "zona_encontrada": "Anahuac Ii",
+        "ubicacion": " Av. Ejército Nacional,  Polanco, Miguel Hidalgo",
+        "ids_zona": 0.86802931351,
+        "e_ids_v_zona": "Medio"
+    },
+    "265": {
+        "id_negocio": "265",
+        "zona_encontrada": "Ampliacion Miguel Hidalgo 3a Secc",
+        "ubicacion": " Carretera Picacho Ajusco 884,  Héroes de Padierna, Tlalpan",
+        "ids_zona": 0.84850433214,
+        "e_ids_v_zona": "Medio"
+    },
+    "266": {
+        "id_negocio": "266",
+        "zona_encontrada": "Ocho De Agosto",
+        "ubicacion": " Canario 166,  Tolteca, Alvaro Obregón",
+        "ids_zona": 0.77293842857,
+        "e_ids_v_zona": "Muy Bajo"
+    },
+    "267": {
+        "id_negocio": "267",
+        "zona_encontrada": "Buenavista I",
+        "ubicacion": " SANTA MARIA LA RIBERA,  Santa María la Ribera, Cuauhtémoc",
+        "ids_zona": 0.74237465179,
+        "e_ids_v_zona": "Muy Bajo"
+    },
+    "268": {
+        "id_negocio": "268",
+        "zona_encontrada": "Lomas Virreyes (Lomas De Chapultepec)",
+        "ubicacion": " Monte Athos,  Lomas de Chapultepec, Miguel Hidalgo",
+        "ids_zona": 0.97600646349,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "269": {
+        "id_negocio": "269",
+        "zona_encontrada": "Las Campanas",
+        "ubicacion": " Canal de Miramontes,  Los Girasoles, Coyoacán",
+        "ids_zona": 0.96456851111,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "270": {
+        "id_negocio": "270",
+        "zona_encontrada": "Moctezuma 2a Seccion Iii",
+        "ubicacion": " Calle norte 17,  Moctezuma, Venustiano Carranza",
+        "ids_zona": 0.84901707069,
+        "e_ids_v_zona": "Medio"
+    },
+    "271": {
+        "id_negocio": "271",
+        "zona_encontrada": "Fuentes De Azcapotzalco-Parques De Azcapotzalco (U Hab)",
+        "ubicacion": " SANTA APOLONIA,  Santa Apolonia, Azcapotzalco",
+        "ids_zona": 0.94966438571,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "272": {
+        "id_negocio": "272",
+        "zona_encontrada": "Molino Del Rey",
+        "ubicacion": " Prado sur,  Lomas de Chapultepec, Miguel Hidalgo",
+        "ids_zona": 0.9236389,
+        "e_ids_v_zona": "Alto"
+    },
+    "273": {
+        "id_negocio": "273",
+        "zona_encontrada": "Lomas De Bezares I",
+        "ubicacion": " B,DURAZNOS,  Bosque de las Lomas, Miguel Hidalgo",
+        "ids_zona": 0.97212235385,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "274": {
+        "id_negocio": "274",
+        "zona_encontrada": "Roma Norte Ii",
+        "ubicacion": " JUAREZ,  Juárez, Cuauhtémoc",
+        "ids_zona": 0.90262521591,
+        "e_ids_v_zona": "Alto"
+    },
+    "275": {
+        "id_negocio": "275",
+        "zona_encontrada": "Florida",
+        "ubicacion": " Av. insurgentes sur,  Guadalupe Inn, Alvaro Obregón",
+        "ids_zona": 0.95291456429,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "276": {
+        "id_negocio": "276",
+        "zona_encontrada": "Las Aguilas",
+        "ubicacion": " Alcanfores 30 las aguilas,  Las Águilas, Alvaro Obregón",
+        "ids_zona": 0.91552092,
+        "e_ids_v_zona": "Alto"
+    },
+    "277": {
+        "id_negocio": "277",
+        "zona_encontrada": "Moctezuma 2a Seccion I",
+        "ubicacion": " Av. del Peñón,  Moctezuma, Venustiano Carranza",
+        "ids_zona": 0.84786459091,
+        "e_ids_v_zona": "Medio"
+    },
+    "278": {
+        "id_negocio": "278",
+        "zona_encontrada": "Roma Sur Ii",
+        "ubicacion": " av baja california,  Condesa, Cuauhtémoc",
+        "ids_zona": 0.91875174118,
+        "e_ids_v_zona": "Alto"
+    },
+    "279": {
+        "id_negocio": "279",
+        "zona_encontrada": "Ampliacion Miguel Hidalgo 3a Secc",
+        "ubicacion": " carretera picacho ajusco 884,  Miguel Hidalgo 3A Sección, Tlalpan",
+        "ids_zona": 0.84850433214,
+        "e_ids_v_zona": "Medio"
+    },
+    "280": {
+        "id_negocio": "280",
+        "zona_encontrada": "Moctezuma 2a Seccion I",
+        "ubicacion": " Av. del Peñón,  Moctezuma, Venustiano Carranza",
+        "ids_zona": 0.84786459091,
+        "e_ids_v_zona": "Medio"
+    },
+    "281": {
+        "id_negocio": "281",
+        "zona_encontrada": "Roma Norte Iii",
+        "ubicacion": " Álvaro Obregón,  Roma Norte, Cuauhtémoc",
+        "ids_zona": 0.89729539857,
+        "e_ids_v_zona": "Alto"
+    },
+    "282": {
+        "id_negocio": "282",
+        "zona_encontrada": "Juarez",
+        "ubicacion": " Londres 275, Juarez, Cuauhtémoc C. P. 06600,  Juárez, Cuauhtémoc",
+        "ids_zona": 0.88111467841,
+        "e_ids_v_zona": "Medio"
+    },
+    "283": {
+        "id_negocio": "283",
+        "zona_encontrada": "Del Valle I",
+        "ubicacion": " Ohio,  Nápoles, Benito Juárez",
+        "ids_zona": 0.9280152551,
+        "e_ids_v_zona": "Alto"
+    },
+    "284": {
+        "id_negocio": "284",
+        "zona_encontrada": "Moctezuma 2a Seccion I",
+        "ubicacion": " Av. del Peñón,  Moctezuma, Venustiano Carranza",
+        "ids_zona": 0.84786459091,
+        "e_ids_v_zona": "Medio"
+    },
+    "285": {
+        "id_negocio": "285",
+        "zona_encontrada": "Roma Sur Ii",
+        "ubicacion": " Avenida Monterrey,  Roma Sur, Cuauhtémoc",
+        "ids_zona": 0.91875174118,
+        "e_ids_v_zona": "Alto"
+    },
+    "286": {
+        "id_negocio": "286",
+        "zona_encontrada": "San Rafael I",
+        "ubicacion": " Altamirano \"San Cosme\",  San Rafael, Cuauhtémoc",
+        "ids_zona": 0.91201739444,
+        "e_ids_v_zona": "Alto"
+    },
+    "287": {
+        "id_negocio": "287",
+        "zona_encontrada": "Roma Sur I",
+        "ubicacion": " Insurgentes Sur al 400,  Roma Sur, Cuauhtémoc",
+        "ids_zona": 0.8965680375,
+        "e_ids_v_zona": "Alto"
+    },
+    "288": {
+        "id_negocio": "288",
+        "zona_encontrada": "Centro Iv",
+        "ubicacion": " Puente de Peredo 11,  Centro , Cuauhtémoc",
+        "ids_zona": 0.76922842667,
+        "e_ids_v_zona": "Muy Bajo"
+    },
+    "289": {
+        "id_negocio": "289",
+        "zona_encontrada": "San Marcos (Barr)",
+        "ubicacion": " Renta de Local Comercial de 56.82 m2 en Plaza Comercial Ferrería,  San Marcos, Azcapotzalco",
+        "ids_zona": 0.85737325185,
+        "e_ids_v_zona": "Medio"
+    },
+    "290": {
+        "id_negocio": "290",
+        "zona_encontrada": "Lomas De Chapultepec I",
+        "ubicacion": " Lomas de Chapultepec,  Lomas de Chapultepec, Miguel Hidalgo",
+        "ids_zona": 0.9577453127,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "291": {
+        "id_negocio": "291",
+        "zona_encontrada": "Veronica Anzures",
+        "ubicacion": " VERONICA ANZUREZ,  Verónica Anzures, Miguel Hidalgo",
+        "ids_zona": 0.92401624333,
+        "e_ids_v_zona": "Alto"
+    },
+    "292": {
+        "id_negocio": "292",
+        "zona_encontrada": "Industrial Ii",
+        "ubicacion": " Norte ,  Industrial, Gustavo A. Madero",
+        "ids_zona": 0.92076133692,
+        "e_ids_v_zona": "Alto"
+    },
+    "293": {
+        "id_negocio": "293",
+        "zona_encontrada": "Juarez",
+        "ubicacion": " Mesones,  Centro (Area 4), Cuauhtémoc",
+        "ids_zona": 0.88111467841,
+        "e_ids_v_zona": "Medio"
+    },
+    "294": {
+        "id_negocio": "294",
+        "zona_encontrada": "Heroes De Padierna",
+        "ubicacion": " Camino a Santa Teresa ,  Fuentes del Pedregal, Tlalpan",
+        "ids_zona": 0.8856546,
+        "e_ids_v_zona": "Alto"
+    },
+    "295": {
+        "id_negocio": "295",
+        "zona_encontrada": "Pedregal De Sto Domingo I",
+        "ubicacion": " Cerro Tlapacoyan ,  Copilco Universidad, Coyoacán",
+        "ids_zona": 0.83191831034,
+        "e_ids_v_zona": "Bajo"
+    },
+    "296": {
+        "id_negocio": "296",
+        "zona_encontrada": "Lomas De Chapultepec Iii",
+        "ubicacion": " Monte Libano, Lomas de Chapultepec, Miguel Hidalgo,  Lomas de Chapultepec, Miguel Hidalgo",
+        "ids_zona": 0.97821593684,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "297": {
+        "id_negocio": "297",
+        "zona_encontrada": "Roma Norte Iii",
+        "ubicacion": " Medellín,  Roma Norte, Cuauhtémoc",
+        "ids_zona": 0.89729539857,
+        "e_ids_v_zona": "Alto"
+    },
+    "298": {
+        "id_negocio": "298",
+        "zona_encontrada": "San Jeronimo Aculco - Lidice (Pblo)",
+        "ubicacion": " Se Renta muy Buen Local en Plaza Comercial, Sobre Av. Luis Cabrera, San Jerónimo Lídice,  San Jerónimo Lídice, La Magdalena Contreras",
+        "ids_zona": 0.91649143399,
+        "e_ids_v_zona": "Alto"
+    },
+    "299": {
+        "id_negocio": "299",
+        "zona_encontrada": "Residencial Zacatenco",
+        "ubicacion": " ,  Residencial Zacatenco, Gustavo A. Madero",
+        "ids_zona": 0.916514952,
+        "e_ids_v_zona": "Alto"
+    },
+    "300": {
+        "id_negocio": "300",
+        "zona_encontrada": "Paulino Navarro",
+        "ubicacion": " Agustín Delgado 271,  Tránsito, Cuauhtémoc",
+        "ids_zona": 0.8849424907,
+        "e_ids_v_zona": "Alto"
+    },
+    "301": {
+        "id_negocio": "301",
+        "zona_encontrada": "Progreso Nacional (Ampl)",
+        "ubicacion": " Calle 13,  Ampliación Progreso Nacional, Gustavo A. Madero",
+        "ids_zona": 0.86735827368,
+        "e_ids_v_zona": "Medio"
+    },
+    "302": {
+        "id_negocio": "302",
+        "zona_encontrada": "Del Valle V",
+        "ubicacion": " Oso, 127,  Actipan, Benito Juárez",
+        "ids_zona": 0.94952989773,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "303": {
+        "id_negocio": "303",
+        "zona_encontrada": "Irrigacion",
+        "ubicacion": " CALZADA LEGARIA # LOCAL ,  Irrigación, Miguel Hidalgo",
+        "ids_zona": 0.95522257727,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "304": {
+        "id_negocio": "304",
+        "zona_encontrada": "Cuauhtemoc",
+        "ubicacion": " Leibnitz,  Anzures, Miguel Hidalgo",
+        "ids_zona": 0.85116574483,
+        "e_ids_v_zona": "Medio"
+    },
+    "305": {
+        "id_negocio": "305",
+        "zona_encontrada": "Anahuac Mariano Escobedo",
+        "ubicacion": " Lago Constanza,  Lago Sur, Miguel Hidalgo",
+        "ids_zona": 0.85896325,
+        "e_ids_v_zona": "Medio"
+    },
+    "306": {
+        "id_negocio": "306",
+        "zona_encontrada": "San Lorenzo Tezonco (Pblo)",
+        "ubicacion": " Avenida Tlahuac  ,  Doce de Diciembre, Iztapalapa",
+        "ids_zona": 0.77568075952,
+        "e_ids_v_zona": "Muy Bajo"
+    },
+    "307": {
+        "id_negocio": "307",
+        "zona_encontrada": "Chapultepec Polanco (Polanco)",
+        "ubicacion": " BLVD. MANUEL AVILA CAMACHO,  Lomas de Chapultepec, Miguel Hidalgo",
+        "ids_zona": 0.95744162105,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "309": {
+        "id_negocio": "309",
+        "zona_encontrada": "Corredor Santa Fe",
+        "ubicacion": " Lateral Autopista México - Toluca,  Santa Fe, Alvaro Obregón",
+        "ids_zona": 0.96492692037,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "310": {
+        "id_negocio": "310",
+        "zona_encontrada": "Guadalupe Tepeyac",
+        "ubicacion": " Miraflores,  Industrial, Gustavo A. Madero",
+        "ids_zona": 0.90702266571,
+        "e_ids_v_zona": "Alto"
+    },
+    "311": {
+        "id_negocio": "311",
+        "zona_encontrada": "Tacuba",
+        "ubicacion": " Calzada Legaria 35,  Ampliación Torre Blanca, Miguel Hidalgo",
+        "ids_zona": 0.86965407097,
+        "e_ids_v_zona": "Medio"
+    },
+    "312": {
+        "id_negocio": "312",
+        "zona_encontrada": "Magdalena De Las Salinas",
+        "ubicacion": " Av. Fortuna,  Magdalena de las Salinas, Gustavo A. Madero",
+        "ids_zona": 0.86786772308,
+        "e_ids_v_zona": "Medio"
+    },
+    "313": {
+        "id_negocio": "313",
+        "zona_encontrada": "Tres Estrellas",
+        "ubicacion": " Avenida Victoria Oriente,  Tres Estrellas, Gustavo A. Madero",
+        "ids_zona": 0.854497936,
+        "e_ids_v_zona": "Medio"
+    },
+    "314": {
+        "id_negocio": "314",
+        "zona_encontrada": "Gertrudis Sanchez 2a Seccion",
+        "ubicacion": " Av. Henry Ford ,  Bondojito, Gustavo A. Madero",
+        "ids_zona": 0.84307801045,
+        "e_ids_v_zona": "Medio"
+    },
+    "315": {
+        "id_negocio": "315",
+        "zona_encontrada": "Ocho De Agosto",
+        "ubicacion": " Prolongación Canarios 166,  Tolteca, Alvaro Obregón",
+        "ids_zona": 0.77293842857,
+        "e_ids_v_zona": "Muy Bajo"
+    },
+    "316": {
+        "id_negocio": "316",
+        "zona_encontrada": "Chapultepec Polanco (Polanco)",
+        "ubicacion": " BLVD. MANUEL AVILA CAMACHO,  Lomas de Chapultepec, Miguel Hidalgo",
+        "ids_zona": 0.95744162105,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "317": {
+        "id_negocio": "317",
+        "zona_encontrada": "Ejidos De San Pedro Martir I (Norte)",
+        "ubicacion": " INSURGENTES SUR,  Santa Úrsula Xitla, Tlalpan",
+        "ids_zona": 0.84323643636,
+        "e_ids_v_zona": "Medio"
+    },
+    "318": {
+        "id_negocio": "318",
+        "zona_encontrada": "Granjas Mexico Ii",
+        "ubicacion": " AÑIL 667 LOCAL 3,  Granjas México, Iztacalco",
+        "ids_zona": 0.86978504839,
+        "e_ids_v_zona": "Medio"
+    },
+    "319": {
+        "id_negocio": "319",
+        "zona_encontrada": "Hacienda De Guadalupe Chimalistac",
+        "ubicacion": " INSURGENTES SUR ,  Guadalupe Inn, Alvaro Obregón",
+        "ids_zona": 0.93828367778,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "320": {
+        "id_negocio": "320",
+        "zona_encontrada": "Santa Catarina (Barr)",
+        "ubicacion": " Insurgentes Sur 2079 PB,  San Ángel, Alvaro Obregón",
+        "ids_zona": 0.94847620278,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "321": {
+        "id_negocio": "321",
+        "zona_encontrada": "Toriello Guerra",
+        "ubicacion": " Av. Puente de Piedra,  Toriello Guerra, Tlalpan",
+        "ids_zona": 0.92832088929,
+        "e_ids_v_zona": "Alto"
+    },
+    "322": {
+        "id_negocio": "322",
+        "zona_encontrada": "Centro Iv",
+        "ubicacion": " MADERO 16,  Centro , Cuauhtémoc",
+        "ids_zona": 0.76922842667,
+        "e_ids_v_zona": "Muy Bajo"
+    },
+    "323": {
+        "id_negocio": "323",
+        "zona_encontrada": "Centro Iv",
+        "ubicacion": " Isabel La Católica 1,  Centro , Cuauhtémoc",
+        "ids_zona": 0.76922842667,
+        "e_ids_v_zona": "Muy Bajo"
+    },
+    "324": {
+        "id_negocio": "324",
+        "zona_encontrada": "Avante",
+        "ubicacion": " Miramontes,  Avante, Coyoacán",
+        "ids_zona": 0.93735926216,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "325": {
+        "id_negocio": "325",
+        "zona_encontrada": "Niños Heroes De Chapultepec",
+        "ubicacion": " Isabel la Catolica,  Niños Héroes, Benito Juárez",
+        "ids_zona": 0.89946672653,
+        "e_ids_v_zona": "Alto"
+    },
+    "326": {
+        "id_negocio": "326",
+        "zona_encontrada": "Napoles",
+        "ubicacion": " RÍO BECERRA,  San Pedro de los Pinos, Benito Juárez",
+        "ids_zona": 0.94857485211,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "327": {
+        "id_negocio": "327",
+        "zona_encontrada": "San Jeronimo Aculco - Lidice (Pblo)",
+        "ubicacion": " Local en Renta, Excelente Ubicación.,  San Jerónimo Lídice, La Magdalena Contreras",
+        "ids_zona": 0.91649143399,
+        "e_ids_v_zona": "Alto"
+    },
+    "328": {
+        "id_negocio": "328",
+        "zona_encontrada": "Narvarte Ii",
+        "ubicacion": " Xola 964,  Narvarte Poniente, Benito Juárez",
+        "ids_zona": 0.93794772222,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "329": {
+        "id_negocio": "329",
+        "zona_encontrada": "Granjas Mexico I",
+        "ubicacion": " Av. Hidalgo 197,  Santa Anita, Iztacalco",
+        "ids_zona": 0.857915042,
+        "e_ids_v_zona": "Medio"
+    },
+    "330": {
+        "id_negocio": "330",
+        "zona_encontrada": "Del Valle I",
+        "ubicacion": " OHIO,  Nápoles, Benito Juárez",
+        "ids_zona": 0.9280152551,
+        "e_ids_v_zona": "Alto"
+    },
+    "331": {
+        "id_negocio": "331",
+        "zona_encontrada": "20 De Noviembre",
+        "ubicacion": " Vulcanización 70,  5o Tramo 20 de Noviembre, Venustiano Carranza",
+        "ids_zona": 0.84593430531,
+        "e_ids_v_zona": "Medio"
+    },
+    "332": {
+        "id_negocio": "332",
+        "zona_encontrada": "Francisco Villa",
+        "ubicacion": " Geranio 16, Los Angeles Apanoaya, Iztapalapa,  Los Angeles Apanoaya, Iztapalapa",
+        "ids_zona": 0.81828916932,
+        "e_ids_v_zona": "Bajo"
+    },
+    "333": {
+        "id_negocio": "333",
+        "zona_encontrada": "Asturias",
+        "ubicacion": " Bernardo Couto,  Algarín, Cuauhtémoc",
+        "ids_zona": 0.86686842963,
+        "e_ids_v_zona": "Medio"
+    },
+    "334": {
+        "id_negocio": "334",
+        "zona_encontrada": "Chapultepec Polanco (Polanco)",
+        "ubicacion": " BLVD. MANUEL AVILA CAMACHO,  Lomas de Chapultepec, Miguel Hidalgo",
+        "ids_zona": 0.95744162105,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "335": {
+        "id_negocio": "335",
+        "zona_encontrada": "Copilco Universidad I",
+        "ubicacion": " Avenida Universidad,  Copilco El Bajo, Coyoacán",
+        "ids_zona": 0.94817853,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "336": {
+        "id_negocio": "336",
+        "zona_encontrada": "Jardines Del Pedregal",
+        "ubicacion": " Periferico sur,  Progreso Tizapán, Alvaro Obregón",
+        "ids_zona": 0.96595030667,
+        "e_ids_v_zona": " Muy Alto"
+    },
+    "337": {
+        "id_negocio": "337",
+        "zona_encontrada": "Moctezuma 2a Seccion I",
+        "ubicacion": " Av. del Peñón,  Moctezuma, Venustiano Carranza",
+        "ids_zona": 0.84786459091,
+        "e_ids_v_zona": "Medio"
+    },
+    "338": {
+        "id_negocio": "338",
+        "zona_encontrada": "Lomas De Santa Fe Ii",
+        "ubicacion": " PROLONGACIÓN PASEO DE LA REFORMA,  Santa Fe, Alvaro Obregón",
+        "ids_zona": 0.92258512727,
+        "e_ids_v_zona": "Alto"
+    },
+    "339": {
+        "id_negocio": "339",
+        "zona_encontrada": "Obrera Ii",
+        "ubicacion": " Eje Central Lazaro Cardenas,  Obrera, Cuauhtémoc",
+        "ids_zona": 0.84234056207,
+        "e_ids_v_zona": "Medio"
+    },
+    "340": {
+        "id_negocio": "340",
+        "zona_encontrada": "Cuauhtemoc",
+        "ubicacion": " Leibnitz # 270, Anzures, Miguel Hidalgo, 11590, CDMX,  Anzures, Miguel Hidalgo",
+        "ids_zona": 0.85116574483,
+        "e_ids_v_zona": "Medio"
+    },
+    "341": {
+        "id_negocio": "341",
+        "zona_encontrada": "Roma Norte Iii",
+        "ubicacion": " Monterrey,  Roma Norte, Cuauhtémoc",
+        "ids_zona": 0.89729539857,
+        "e_ids_v_zona": "Alto"
+    },
+    "342": {
+        "id_negocio": "342",
+        "zona_encontrada": "Anzures",
+        "ubicacion": " Masaryk 180,  Polanco IV Sección, Polanco",
+        "ids_zona": 0.94061810133,
+        "e_ids_v_zona": " Muy Alto"
+    }
+}

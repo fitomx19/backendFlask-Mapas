@@ -37,7 +37,12 @@ class MapasGeoJsonService:
             with open('./csv_mapas/flan_04_12.geojson', 'r') as file:
                 geojson_data = file.read()
                 geojson_data = json.loads(geojson_data)
-
+                return jsonify({'geojson_data': geojson_data})
+        elif csv_file == '7':
+            nombre_archivo = './csv_mapas/info_negocios_final.json'
+            with open('./csv_mapas/info_negocios_final.json', 'r') as file:
+                geojson_data = file.read()
+                geojson_data = json.loads(geojson_data)
                 return jsonify({'geojson_data': geojson_data})
 
 

@@ -1,4 +1,4 @@
-from backendFlask.services.mapas_services import MapasService,MapasGeoJsonService
+from app.services.mapas_services import MapasService,MapasGeoJsonService
 
 class MapasController:
     def saludar(self):

@@ -20,8 +20,7 @@ precio,ubicacion,delegacion,colonia,tamanio,latitud,longitud
 11000,"Marcelino Dávalos 53,  Algarín, Cuauhtémoc",Cuauhtémoc,Algarín,163,19.405,-99.13
 16000,"calzada vallejo 1657,  Ampliación Progreso Nacional, Gustavo A. Madero",Gustavo A. Madero,Ampliación Progreso Nacional,80,19.52,-99.16
 62000,"Avenida Baja California 295,  Condesa, Cuauhtémoc",Cuauhtémoc,Condesa,56,19.406,-99.17
-8500000,"Montecito,  Nápoles, Benito Juárez",Benito Juárez,Nápoles,59,19.394,-99.17
-1,"Av. Rio Churubusco 1072,  Nueva Rosita, Iztapalapa",Iztapalapa,Nueva Rosita,50960,19.378,-99.1
+85000,"Montecito,  Nápoles, Benito Juárez",Benito Juárez,Nápoles,59,19.394,-99.17
 25000,"Av. Lomas de Sotelo,  Lomas de Sotelo, Miguel Hidalgo",Miguel Hidalgo,Lomas de Sotelo,68,19.447,-99.21
 17500,"Los Girasoles ,  Los Girasoles, Coyoacán",Coyoacán,Los Girasoles,35,19.31,-99.12
 48000,"Parques Plaza Calle Lago Alberto 442 20A ,  Anáhuac I Sección, Miguel Hidalgo",Miguel Hidalgo,Anáhuac I Sección,531,19.438,-99.17
@@ -92,7 +91,7 @@ precio,ubicacion,delegacion,colonia,tamanio,latitud,longitud
 16000,"Miguel Noreña 33,  San José Insurgentes, Benito Juárez",Benito Juárez,San José Insurgentes,35,19.363,-99.18
 8000,"Avenida Miguel Ángel de Quevedo 353,  Romero de Terreros, Coyoacán",Coyoacán,Romero de Terreros,15,19.345,-99.17
 16500,"Patriotismo,  Nápoles, Benito Juárez",Benito Juárez,Nápoles,50,19.394,-99.18
-10000000,"Insurgentes -,  Roma, Cuauhtémoc",Cuauhtémoc,Roma,60,19.409,-99.15
+10000,"Insurgentes -,  Roma, Cuauhtémoc",Cuauhtémoc,Roma,60,19.409,-99.15
 30000,"Lóndres,  Juárez, Cuauhtémoc",Cuauhtémoc,Juárez,70,19.423,-99.16
 20000,"CAMPECHE  439,  Hipódromo Condesa, Cuauhtémoc",Cuauhtémoc,Hipódromo Condesa,17,19.411,-99.17
 30000,"Av. Clavería,  Clavería, Azcapotzalco",Azcapotzalco,Clavería,55,19.465,-99.18
@@ -122,14 +121,14 @@ precio,ubicacion,delegacion,colonia,tamanio,latitud,longitud
 25000,"MONTECITO 38 ,  Nápoles, Benito Juárez",Benito Juárez,Nápoles,40,19.395,-99.17
 12000,"Tihuatlán No. 10 ,  San Jerónimo Aculco, Alvaro Obregón",Alvaro Obregón,San Jerónimo Aculco,12,19.317,-99.22
 35000,"Pedregal 78,  Lomas Virreyes, Miguel Hidalgo",Miguel Hidalgo,Lomas Virreyes,53,19.422,-99.2
-600040,"Priv. Venustiano Carranza lT. 4,  Palmatitla, Gustavo A. Madero",Gustavo A. Madero,Palmatitla,70,19.551,-99.13
-60000,"Masaryk ,  Polanco, Miguel Hidalgo",Miguel Hidalgo,Polanco,801,19.432,-99.2
+60040,"Priv. Venustiano Carranza lT. 4,  Palmatitla, Gustavo A. Madero",Gustavo A. Madero,Palmatitla,70,19.551,-99.13
+60000,"Masaryk ,  Polanco, Miguel Hidalgo",Miguel Hidalgo,Polanco,81,19.432,-99.2
 12000,"Av. Universidad ,  Letrán Valle, Benito Juárez",Benito Juárez,Letrán Valle,50,19.372,-99.16
 63000,"Alejandro Dumas ,  Polanco IV Sección, Polanco",Polanco,Polanco IV Sección,73,19.431,-99.19
 3984,"Álvaro Obregón 19,  San Juan Tepeximilpa, Tlalpan",Tlalpan,San Juan Tepeximilpa,21,19.269,-99.19
 50000,"HIPODROMO,  Hipódromo, Cuauhtémoc",Cuauhtémoc,Hipódromo,50,19.409,-99.17
 15000,"Revillagigedo 84,  Colonia Centro, Cuauhtémoc",Cuauhtémoc,Colonia Centro,50,19.429,-99.14
-60000,"Masaryk ,  Polanco, Miguel Hidalgo",Miguel Hidalgo,Polanco,8021,19.432,-99.2
+60000,"Masaryk ,  Polanco, Miguel Hidalgo",Miguel Hidalgo,Polanco,81,19.432,-99.2
 31236,"av montevideo 363 colonia lindavista,  Lindavista, Gustavo A. Madero",Gustavo A. Madero,Lindavista,312,19.492,-99.13
 33411,"insurgentes sur 859,  Nápoles, Benito Juárez",Benito Juárez,Nápoles,501,19.388,-99.17
 27018,"Calle Lago Alberto,  Anáhuac I Sección, Miguel Hidalgo",Miguel Hidalgo,Anáhuac I Sección,29,19.439,-99.18
@@ -224,7 +223,7 @@ precio,ubicacion,delegacion,colonia,tamanio,latitud,longitud
 1500,"Local_ Torre Blu_salvador Agraz 73,  Las Tinajas, Cuajimalpa de Morelos",Cuajimalpa de Morelos,Las Tinajas,16,19.358,-99.27
 14000,"Jose t cuellar , colonia obrera,  Obrera, Cuauhtémoc",Obrera,colonia obrera,55,19.414,-99.13
 12000,"Local Comercial en Renta. Plutarco Elias Calles, San Andres Tetepilco, Iztapalapa,  San Andrés Tetepilco, Iztapalapa",Iztapalapa,San Andres Tetepilco,50,19.368,-99.13
-5000,"Av. San Jerónimo 1423,  San Jerónimo Lídice, La Magdalena Contreras",La Magdalena Contreras,San Jerónimo Lídice,20130,19.321,-99.23
+5000,"Av. San Jerónimo 1423,  San Jerónimo Lídice, La Magdalena Contreras",La Magdalena Contreras,San Jerónimo Lídice,210,19.321,-99.23
 34684,"Calle del Carmen,  San Ángel, Alvaro Obregón",Alvaro Obregón,San Ángel,46,19.344,-99.18
 45000,"Marina Nacional ,  Anáhuac I Sección, Miguel Hidalgo",Miguel Hidalgo,Anáhuac I Sección,45,19.444,-99.17
 50000,"Masaryk,  Polanco, Miguel Hidalgo",Miguel Hidalgo,Polanco,50,19.431,-99.19

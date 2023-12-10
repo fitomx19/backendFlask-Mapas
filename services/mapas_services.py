@@ -1,7 +1,6 @@
 from flask import Flask, request, jsonify
 import pandas as pd
-import geopandas as gpd
-from shapely.geometry import Point
+ 
 import json
 class MapasService:
     @staticmethod
@@ -15,7 +14,11 @@ class MapasGeoJsonService:
         if csv_file is None:
             return jsonify({'geojson_data': 'No hay archivo'})
         if csv_file == '1':
-            nombre_archivo = './csv_mapas/inmuebles24Corregido.csv'
+            nombre_archivo = './csv_mapas/inmuebles24Corregido.geojson'
+            with open(nombre_archivo, 'r') as file:
+                geojson_data = file.read()
+                geojson_data = json.loads(geojson_data)
+                return jsonify(  geojson_data)
         elif csv_file == '2':
             nombre_archivo = './csv_mapas/ids_ut_raw.csv'
         elif csv_file == '3':
@@ -46,8 +49,7 @@ class MapasGeoJsonService:
                 return jsonify({'geojson_data': geojson_data})
 
 
-        geojson_data = MapasGeoJsonService.convertir_csv_a_geojson(nombre_archivo)
-        return jsonify({'geojson_data': json.loads(geojson_data)})
+        
 
     @staticmethod
     def convertir_csv_a_geojson(csv_file):

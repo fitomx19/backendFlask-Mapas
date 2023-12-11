@@ -1,5 +1,5 @@
 from flask import Blueprint,send_from_directory
-from app.controller.mapas_controller import MapasController
+from controller.mapas_controller import MapasController
 
 mapas_bp = Blueprint('mapas', __name__)
 

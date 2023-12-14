@@ -8,3 +8,7 @@ class MapasController:
     def obtener_geojson(self, csv_file):
         geojson_data = MapasGeoJsonService.obtener_geojson(csv_file)
         return geojson_data
+    
+    def obtener_distancia(self,origen,destino):
+        distancia = MapasGeoJsonService.matriz_distancia_tiempo(origen,destino)
+        return distancia

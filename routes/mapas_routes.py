@@ -1,4 +1,4 @@
-from flask import Blueprint,send_from_directory
+from flask import Blueprint,send_from_directory,request
 from controller.mapas_controller import MapasController
 
 mapas_bp = Blueprint('mapas', __name__)
@@ -14,3 +14,9 @@ def obtener_geojson(csv_file):
 @mapas_bp.route('/static/<path:filename>')
 def serve_static(filename):
     return send_from_directory('static', filename)
+
+@mapas_bp.route('/distancia')
+def obtener_distancia():
+    origen = request.args.get('origen')
+    destino = request.args.get('destino')
+    return MapasController().obtener_distancia(origen,destino)
